@@ -1,7 +1,7 @@
 # 3D Machine Learning
 In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers. 
 
-I'll use the following to differentiate 3D representations:
+I'll use the following icons to differentiate 3D representations:
 * :camera: Multi-view Images
 * :space_invader: Volumetric
 * :game_die: Point Cloud
