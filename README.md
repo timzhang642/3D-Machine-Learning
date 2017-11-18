@@ -34,10 +34,10 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 - [3D Synthesis/Reconstruction](#3d_synthesis)
   - [Parametric Morphable Model-based methods](#3d_synthesis_model_based)
   - [Part-based Template Learning methods](#3d_synthesis_template_based)
-  - [Deep Learning Methods](#multiple_detection_dl_based)
+  - [Deep Learning Methods](#3d_synthesis_dl_based)
 - [Style Transfer](#style_transfer)
 - [Scene Synthesis](#scene_synthesis)
-- [Scene_Understanding](#scene_understanding)
+- [Scene Understanding](#scene_understanding)
 
 
 
