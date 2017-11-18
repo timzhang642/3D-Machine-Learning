@@ -89,6 +89,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 <b>DeepContext: Context-Encoding Neural Pathways  for 3D Holistic Scene Understanding (2016)</b> [[Paper]](http://deepcontext.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://deepcontext.cs.princeton.edu/teaser.png" /></p>
 
+<b>SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (2017)</b> [[Paper]](http://rgbd.cs.princeton.edu/)
+<p align="center"><img width="50%" src="http://rgbd.cs.princeton.edu/teaser.jpg" /></p>
+
 ## Part Segmentation
 <b>Learning 3D Mesh Segmentation and Labeling (2010)</b> [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0bf390e2a14f74bcc8838d5fb1c0c4cc60e92eb7/7-Figure7-1.png" /></p>
@@ -321,28 +324,28 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="http://www.cs.toronto.edu/~fidler/projects/layout-res.jpg" /></p>
 
 <b>A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method (2016)</b> [[Paper]](https://pdfs.semanticscholar.org/7024/a92186b81e6133dc779f497d06877b48d82b.pdf?_ga=2.54181869.497995160.1510977308-665742395.1510465328)
-<p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7024a92186b81e6133dc779f497d06877b48d82b/2-Figure1-1.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/A%20Coarse-to-Fine%20Indoor%20Layout%20Estimation%20(CFILE)%20Method%20(2016).png" /></p>
 
 <b>DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes (2016)</b> [[Paper]](http://deeplayout.stanford.edu/)
-<p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/8f34e1da546834f337500e3168fec347f1c75589/7-Figure6-1.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/DeLay-Robust%20Spatial%20Layout%20Estimation%20for%20Cluttered%20Indoor%20Scenes.png" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>3D Semantic Parsing of Large-Scale Indoor Spaces (2016)</b> [[Paper]](http://buildingparser.stanford.edu/method.html)
+<p align="center"><img width="50%" src="http://buildingparser.stanford.edu/images/teaser.png" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>Single Image 3D Interpreter Network (2016)</b> [[Paper]](http://3dinterpreter.csail.mit.edu/)
+<p align="center"><img width="50%" src="http://3dinterpreter.csail.mit.edu/images/spotlight_3dinn_large.jpg" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>Deep Multi-Modal Image Correspondence Learning (2016)</b> [[Paper]](http://www.cse.wustl.edu/~chenliu/floorplan-matching.html)
+<p align="center"><img width="50%" src="https://www.cse.wustl.edu/~furukawa/carousel/2016-floorplan-wide.png" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks (2017)</b> [[Paper]](http://3dvision.princeton.edu/projects/2016/PBRS/)
+<p align="center"><img width="50%" src="http://robots.princeton.edu/projects/2016/PBRS/teaser.jpg" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>RoomNet: End-to-End Room Layout Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1703.06241.pdf)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/C7Z29GsV0AASEvR.jpg" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (2017)</b> [[Paper]](http://rgbd.cs.princeton.edu/)
+<p align="center"><img width="50%" src="http://rgbd.cs.princeton.edu/teaser.jpg" /></p>
 
-<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<b>Semantic Scene Completion from a Single Depth Image (2017)</b> [[Paper]](http://sscnet.cs.princeton.edu/)
+<p align="center"><img width="50%" src="http://sscnet.cs.princeton.edu/teaser.jpg" /></p>
