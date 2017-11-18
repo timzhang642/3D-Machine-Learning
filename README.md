@@ -287,7 +287,7 @@ _Deep Learning Methods_
 
 ## Scene Synthesis
 <b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
-<p align="center"><img width="100%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+<p align="center"><img width="40%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
 
 <b>Interactive Furniture Layout Using Interior Design Guidelines (2011)</b> [[Paper]](http://graphics.stanford.edu/~pmerrell/furnitureLayout.htm)
 <p align="center"><img width="50%" src="http://vis.berkeley.edu/papers/furnitureLayout/furnitureBig.jpg" /></p>
@@ -322,6 +322,18 @@ _Deep Learning Methods_
 
 <b>A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method (2016)</b> [[Paper]](https://pdfs.semanticscholar.org/7024/a92186b81e6133dc779f497d06877b48d82b.pdf?_ga=2.54181869.497995160.1510977308-665742395.1510465328)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7024a92186b81e6133dc779f497d06877b48d82b/2-Figure1-1.png" /></p>
+
+<b>DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes (2016)</b> [[Paper]](http://deeplayout.stanford.edu/)
+<p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/8f34e1da546834f337500e3168fec347f1c75589/7-Figure6-1.png" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
 
 <b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
 <p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
