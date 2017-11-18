@@ -22,6 +22,8 @@ To make it a collaborative project, you may add content throught pull requests o
 
 [Geometric Deep Learning](http://geometricdeeplearning.com/)
 
+[Paper Collection for 3D Understanding](https://www.cs.princeton.edu/courses/archive/spring15/cos598A/cos598A.html#Estimating)
+
 ## Datasets
 To see a survey of RGBD datasets, I recommend to check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
 
@@ -61,6 +63,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 
 :space_invader: <b>O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis  (2017)</b> [[Paper]](http://wang-ps.github.io/O-CNN)
 <p align="center"><img width="50%" src="http://wang-ps.github.io/O-CNN_files/teaser.png" /></p>
+
+:space_invader: <b>Orientation-boosted voxel nets for 3D object recognition (2017)</b> [[Paper]](https://lmb.informatik.uni-freiburg.de/Publications/2017/SZB17a/)
+<p align="center"><img width="50%" src="https://lmb.informatik.uni-freiburg.de/Publications/2017/SZB17a/teaser_w.png" /></p>
 
 :game_die: <b>PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (2017)</b> [[Paper]](http://stanford.edu/~rqi/pointnet/)
 <p align="center"><img width="40%" src="https://web.stanford.edu/~rqi/papers/pointnet.png" /></p>
@@ -102,6 +107,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 
 :game_die: <b>PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space (2017)</b> [[Paper]](https://arxiv.org/pdf/1706.02413.pdf)
 <p align="center"><img width="40%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointNet%2B%2B-%20Deep%20Hierarchical%20Feature%20Learning%20on%20Point%20Sets%20in%20a%20Metric%20Space.png" /></p>
+
+:game_die: <b>3D Graph Neural Networks for RGBD Semantic Segmentation (2017)</b> [[Paper]](http://www.cs.toronto.edu/~rjliao/papers/iccv_2017_3DGNN.pdf)
+<p align="center"><img width="40%" src="http://www.fonow.com/Images/2017-10-18/66372-20171018115809740-2125227250.jpg" /></p>
 
 ## 3D Synthesis/Reconstruction
 _Parametric Morphable Model-based methods_
@@ -224,6 +232,9 @@ _Deep Learning Methods_
 :game_die: <b>Shape Generation using Spatially Partitioned Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pdf/1707.06267.pdf)
 <p align="center"><img width="50%" src="http://mgadelha.me/sppc/fig/abstract.png" /></p>
 
+:game_die: <b>PCPNET Learning Local Shape Properties from Raw Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pdf/1710.04954.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PCPNET%20Learning%20Local%20Shape%20Properties%20from%20Raw%20Point%20Clouds%20(2017).jpeg" /></p>
+
 :game_die: <b>DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image (2017)</b> [[Paper]](http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf)
 <p align="center"><img width="50%" src="https://chrischoy.github.io/images/publication/deformnet/model.png" /></p>
 
@@ -273,3 +284,53 @@ _Deep Learning Methods_
 
 <b>Learning Detail Transfer based on Geometric Features (2017)</b> [[Paper]](http://surfacedetails.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://surfacedetails.cs.princeton.edu/images/teaser.png" /></p>
+
+## Scene Synthesis
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="100%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Interactive Furniture Layout Using Interior Design Guidelines (2011)</b> [[Paper]](http://graphics.stanford.edu/~pmerrell/furnitureLayout.htm)
+<p align="center"><img width="50%" src="http://vis.berkeley.edu/papers/furnitureLayout/furnitureBig.jpg" /></p>
+
+<b>Synthesizing Open Worlds with Constraints using Locally Annealed Reversible Jump MCMC (2012)</b> [[Paper]](http://graphics.stanford.edu/~lfyg/owl.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Synthesizing%20Open%20Worlds%20with%20Constraints%20using%20Locally%20Annealed%20Reversible%20Jump%20MCMC%20(2012).jpeg" /></p>
+
+<b>Sketch2Scene: Sketch-based Co-retrieval  and Co-placement of 3D Models  (2013)</b> [[Paper]](http://sweb.cityu.edu.hk/hongbofu/projects/sketch2scene_sig13/#.WWWge__ysb0)
+<p align="center"><img width="50%" src="http://sunweilun.github.io/images/paper/sketch2scene_thumb.jpg" /></p>
+
+<b>IM2CAD</b> [[Paper]](http://homes.cs.washington.edu/~izadinia/im2cad.html)
+<p align="center"><img width="50%" src="http://i.imgur.com/KhtOeuB.jpg" /></p>
+
+<b>Raster-to-Vector: Revisiting Floorplan Transformation (2017, ICCV)</b> [[Paper]](http://www.cse.wustl.edu/~chenliu/floorplan-transformation.html)
+<p align="center"><img width="50%" src="https://www.cse.wustl.edu/~chenliu/floorplan-transformation/teaser.png" /></p>
+
+## Scene Understanding
+<b>Understanding Indoor Scenes Using 3D Geometric Phrases (2013)</b> [[Paper]](http://cvgl.stanford.edu/projects/3dgp/)
+<p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/3dgp/images/title.png" /></p>
+
+<b>SceneGrok: Inferring Action Maps in 3D Environments (2014, SIGGRAPH)</b> [[Paper]](http://graphics.stanford.edu/projects/scenegrok/)
+<p align="center"><img width="50%" src="http://graphics.stanford.edu/projects/scenegrok/scenegrok.png" /></p>
+
+<b>PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (2014)</b> [[Paper]](http://panocontext.cs.princeton.edu/)
+<p align="center"><img width="50%" src="http://panocontext.cs.princeton.edu/teaser.jpg" /></p>
+
+<b>Learning Informative Edge Maps for Indoor Scene Layout Prediction (2015)</b> [[Paper]](http://web.engr.illinois.edu/~slazebni/publications/iccv15_informative.pdf)
+<p align="center"><img width="50%" src="http://img.blog.csdn.net/20170820185439268?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYmFpeXU5ODIxMTc5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" /></p>
+
+<b>Rent3D: Floor-Plan Priors for Monocular Layout Estimation (2015)</b> [[Paper]](http://www.cs.toronto.edu/~fidler/projects/rent3D.html)
+<p align="center"><img width="50%" src="http://www.cs.toronto.edu/~fidler/projects/layout-res.jpg" /></p>
+
+<b>A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method (2016)</b> [[Paper]](https://pdfs.semanticscholar.org/7024/a92186b81e6133dc779f497d06877b48d82b.pdf?_ga=2.54181869.497995160.1510977308-665742395.1510465328)
+<p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7024a92186b81e6133dc779f497d06877b48d82b/2-Figure1-1.png" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
+
+<b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
+<p align="center"><img width="50%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
