@@ -27,6 +27,13 @@ To make it a collaborative project, you may add content throught pull requests o
 ## Datasets
 To see a survey of RGBD datasets, I recommend to check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
 
+# Contents
+- [Single Object Classification](#single_classification)
+- [Multiple Objects Detection](#multiple_detection)
+
+
+<a name="single_classification" />
+
 ## Single Object Classification
 :space_invader: <b>3D ShapeNets: A Deep Representation for Volumetric Shapes (2015)</b> [[Paper]](http://3dshapenets.cs.princeton.edu/)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/3ed23386284a5639cb3e8baaecf496caa766e335/1-Figure1-1.png" /></p>
@@ -75,6 +82,8 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 
 :camera: <b>Feedback Networks (2017)</b> [[Paper]](http://feedbacknet.stanford.edu/)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Feedback%20Networks.png" /></p>
+
+<a name="multiple_detection" />
 
 ## Multiple Objects Detection
 <b>Sliding Shapes for 3D Object Detection in Depth Images (2014)</b> [[Paper]](http://slidingshapes.cs.princeton.edu/)
