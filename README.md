@@ -27,9 +27,18 @@ To make it a collaborative project, you may add content throught pull requests o
 ## Datasets
 To see a survey of RGBD datasets, I recommend to check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
 
-# Contents
+## Contents
 - [Single Object Classification](#single_classification)
 - [Multiple Objects Detection](#multiple_detection)
+- [Part Segmentation](#part_segmentation)
+- [3D Synthesis/Reconstruction](#3d_synthesis)
+  - [Parametric Morphable Model-based methods](#3d_synthesis_model_based)
+  - [Part-based Template Learning methods](#3d_synthesis_template_based)
+  - [Deep Learning Methods](#multiple_detection_dl_based)
+- [Style Transfer](#style_transfer)
+- [Scene Synthesis](#scene_synthesis)
+- [Scene_Understanding](#scene_understanding)
+
 
 
 <a name="single_classification" />
@@ -101,6 +110,8 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 <b>SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (2017)</b> [[Paper]](http://rgbd.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://rgbd.cs.princeton.edu/teaser.jpg" /></p>
 
+<a name="part_segmentation" />
+
 ## Part Segmentation
 <b>Learning 3D Mesh Segmentation and Labeling (2010)</b> [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0bf390e2a14f74bcc8838d5fb1c0c4cc60e92eb7/7-Figure7-1.png" /></p>
@@ -123,7 +134,12 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 :game_die: <b>3D Graph Neural Networks for RGBD Semantic Segmentation (2017)</b> [[Paper]](http://www.cs.toronto.edu/~rjliao/papers/iccv_2017_3DGNN.pdf)
 <p align="center"><img width="40%" src="http://www.fonow.com/Images/2017-10-18/66372-20171018115809740-2125227250.jpg" /></p>
 
+<a name="3d_synthesis" />
+
 ## 3D Synthesis/Reconstruction
+
+<a name="3d_synthesis_model_based" />
+
 _Parametric Morphable Model-based methods_
 
 <b>A Morphable Model For The Synthesis Of 3D Faces (1999)</b> [[Paper]](http://gravis.dmi.unibas.ch/publications/Sigg99/morphmod2.pdf)[[Github]](https://github.com/MichaelMure/3DMM)
@@ -131,6 +147,8 @@ _Parametric Morphable Model-based methods_
 
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
+
+<a name="3d_synthesis_template_based" />
 
 _Part-based Template Learning methods_
 
@@ -178,6 +196,8 @@ _Part-based Template Learning methods_
 
 <b>Shape Completion from a Single RGBD Image (2016)</b> [[Paper]](http://www.kunzhou.net/2016/shapecompletion-tvcg16.pdf)
 <p align="center"><img width="40%" src="http://tianjiashao.com/Images/2015/completion.jpg" /></p>
+
+<a name="3d_synthesis_dl_based" />
 
 _Deep Learning Methods_
 
@@ -274,6 +294,7 @@ _Deep Learning Methods_
 :gem: <b>Mesh-based Autoencoders for Localized Deformation Component Analysis (2017)</b> [[Paper]](https://arxiv.org/pdf/1709.04304.pdf)
 <p align="center"><img width="50%" src="http://qytan.com/img/point_conv.jpg" /></p>
 
+<a name="style_transfer" />
 
 ## Style Transfer
 <b>Style-Content Separation by Anisotropic Part Scales (2010)</b> [[Paper]](https://www.cs.sfu.ca/~haoz/pubs/xu_siga10_style.pdf)
@@ -297,6 +318,8 @@ _Deep Learning Methods_
 <b>Learning Detail Transfer based on Geometric Features (2017)</b> [[Paper]](http://surfacedetails.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://surfacedetails.cs.princeton.edu/images/teaser.png" /></p>
 
+<a name="scene_synthesis" />
+
 ## Scene Synthesis
 <b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
 <p align="center"><img width="40%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
@@ -315,6 +338,8 @@ _Deep Learning Methods_
 
 <b>Raster-to-Vector: Revisiting Floorplan Transformation (2017, ICCV)</b> [[Paper]](http://www.cse.wustl.edu/~chenliu/floorplan-transformation.html)
 <p align="center"><img width="50%" src="https://www.cse.wustl.edu/~chenliu/floorplan-transformation/teaser.png" /></p>
+
+<a name="scene_understanding" />
 
 ## Scene Understanding
 <b>Understanding Indoor Scenes Using 3D Geometric Phrases (2013)</b> [[Paper]](http://cvgl.stanford.edu/projects/3dgp/)
