@@ -110,6 +110,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 <b>SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (2017)</b> [[Paper]](http://rgbd.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://rgbd.cs.princeton.edu/teaser.jpg" /></p>
 
+<b>VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.06396.pdf)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPMtLhHXUAcQUj2.jpg" /></p>
+
 <a name="part_segmentation" />
 
 ## Part Segmentation
