@@ -27,7 +27,7 @@ To make it a collaborative project, you may add content throught pull requests o
 ## Datasets
 To see a survey of RGBD datasets, I recommend to check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
 
-## Contents
+## Table of Contents
 - [Single Object Classification](#single_classification)
 - [Multiple Objects Detection](#multiple_detection)
 - [Part Segmentation](#part_segmentation)
@@ -112,6 +112,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 
 <b>VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.06396.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPMtLhHXUAcQUj2.jpg" /></p>
+
+<b>Frustum PointNets for 3D Object Detection from RGB-D Data (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.08488.pdf)
+<p align="center"><img width="50%" src="https://arxiv-sanity-sanity-production.s3.amazonaws.com/render-output/17548/fig/teaser.svg" /></p>
 
 <a name="part_segmentation" />
 
@@ -303,6 +306,9 @@ _Deep Learning Methods_
 :gem: <b>Mesh-based Autoencoders for Localized Deformation Component Analysis (2017)</b> [[Paper]](https://arxiv.org/pdf/1709.04304.pdf)
 <p align="center"><img width="50%" src="http://qytan.com/img/point_conv.jpg" /></p>
 
+:gem: <b>Neural 3D Mesh Renderer (2017)</b> [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPSm-4HWkAApEZd.jpg" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
@@ -326,6 +332,9 @@ _Deep Learning Methods_
 
 <b>Learning Detail Transfer based on Geometric Features (2017)</b> [[Paper]](http://surfacedetails.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://surfacedetails.cs.princeton.edu/images/teaser.png" /></p>
+
+<b>Neural 3D Mesh Renderer (2017)</b> [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPSm-4HWkAApEZd.jpg" /></p>
 
 <a name="scene_synthesis" />
 
