@@ -30,7 +30,7 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 ## Table of Contents
 - [Single Object Classification](#single_classification)
 - [Multiple Objects Detection](#multiple_detection)
-- [Part Segmentation](#part_segmentation)
+- [Scene/Object Semantic Segmentation](#segmentation)
 - [3D Synthesis/Reconstruction](#3d_synthesis)
   - [Parametric Morphable Model-based methods](#3d_synthesis_model_based)
   - [Part-based Template Learning methods](#3d_synthesis_template_based)
@@ -116,9 +116,9 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 <b>Frustum PointNets for 3D Object Detection from RGB-D Data (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.08488.pdf)
 <p align="center"><img width="50%" src="https://arxiv-sanity-sanity-production.s3.amazonaws.com/render-output/17548/fig/teaser.svg" /></p>
 
-<a name="part_segmentation" />
+<a name="segmentation" />
 
-## Part Segmentation
+## Scene/Object Semantic Segmentation
 <b>Learning 3D Mesh Segmentation and Labeling (2010)</b> [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0bf390e2a14f74bcc8838d5fb1c0c4cc60e92eb7/7-Figure7-1.png" /></p>
 
@@ -142,6 +142,11 @@ To see a survey of RGBD datasets, I recommend to check out Michael Firman's [col
 
 :game_die: <b>3D Graph Neural Networks for RGBD Semantic Segmentation (2017)</b> [[Paper]](http://www.cs.toronto.edu/~rjliao/papers/iccv_2017_3DGNN.pdf)
 <p align="center"><img width="40%" src="http://www.fonow.com/Images/2017-10-18/66372-20171018115809740-2125227250.jpg" /></p>
+
+:game_die: <b>3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic
+Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pdf/1707.06783.pdf)
+<p align="center"><img width="40%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/3DCNN-DQN-RNN.png" /></p>
+
 
 <a name="3d_synthesis" />
 
