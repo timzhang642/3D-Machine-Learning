@@ -140,6 +140,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :space_invader: <b>Generative and Discriminative Voxel Modeling with Convolutional Neural Networks (2016)</b> [[Paper]](https://arxiv.org/pdf/1608.04236.pdf) [[Code]](https://github.com/ajbrock/Generative-and-Discriminative-Voxel-Modeling)
 <p align="center"><img width="50%" src="http://davidstutz.de/wordpress/wp-content/uploads/2017/02/brock_vae.png" /></p>
 
+:gem: <b>Geometric deep learning on graphs and manifolds using mixture model CNNs (2016)</b> [[Link]](https://arxiv.org/pdf/1611.08402.pdf)
+<p align="center"><img width="50%" src="https://i2.wp.com/preferredresearch.jp/wp-content/uploads/2017/08/monet.png?resize=581%2C155&ssl=1" /></p>
+
 :space_invader: <b>3D GAN: Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (2016)</b> [[Paper]](https://arxiv.org/pdf/1610.07584.pdf) [[Code]](https://github.com/zck119/3dgan-release)
 <p align="center"><img width="50%" src="http://3dgan.csail.mit.edu/images/model.jpg" /></p>
 
@@ -169,6 +172,12 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 
 :game_die: <b>Escape from Cells: Deep Kd-Networks for The Recognition of 3D Point Cloud Models (2017)</b> [[Paper]](http://www.arxiv.org/pdf/1704.01222.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Escape From Cells.png" /></p>
+
+:game_die: <b>Dynamic Graph CNN for Learning on Point Clouds (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.07829.pdf)
+<p align="center"><img width="50%" src="https://liuziwei7.github.io/homepage_files/dynamicgcnn_logo.png" /></p>
+
+:game_die: <b>PointCNN (2018)</b> [[Paper]](https://yangyanli.github.io/PointCNN/)
+<p align="center"><img width="50%" src="http://yangyan.li/images/paper/pointcnn.png" /></p>
 
 <a name="multiple_detection" />
 
@@ -233,6 +242,12 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 
 :game_die::space_invader: <b>Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 (2017)</b> [[Paper]](https://arxiv.org/pdf/1710.06104.pdf)
 <p align="center"><img width="40%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Core55.png" /></p>
+
+:game_die: <b>Dynamic Graph CNN for Learning on Point Clouds (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.07829.pdf)
+<p align="center"><img width="50%" src="https://liuziwei7.github.io/homepage_files/dynamicgcnn_logo.png" /></p>
+
+:game_die: <b>PointCNN (2018)</b> [[Paper]](https://yangyanli.github.io/PointCNN/)
+<p align="center"><img width="50%" src="http://yangyan.li/images/paper/pointcnn.png" /></p>
 
 <a name="3d_synthesis" />
 
