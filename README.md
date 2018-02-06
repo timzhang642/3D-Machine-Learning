@@ -424,6 +424,9 @@ _Deep Learning Methods_
 :camera::space_invader: <b>What You Sketch Is What You Get: 3D Sketching using Multi-View Deep Volumetric Prediction (2017)</b> [[Paper]](https://arxiv.org/pdf/1707.08390.pdf)
 <p align="center"><img width="50%" src="https://arxiv-sanity-sanity-production.s3.amazonaws.com/render-output/31631/x1.png" /></p>
 
+:camera::space_invader: <b>MarrNet: 3D Shape Reconstruction via 2.5D Sketches (2017)</b> [[Paper]](http://marrnet.csail.mit.edu/)
+<p align="center"><img width="50%" src="http://marrnet.csail.mit.edu/images/model.jpg" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
