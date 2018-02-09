@@ -116,6 +116,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>AI2-THOR is a photo-realistic interactable framework for AI agents. There are a total 120 scenes in version 1.0 of the THOR environment covering four different room categories: kitchens, living rooms, bedrooms, and bathrooms. Each room has a number of actionable objects.
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/AI2-Thor.jpeg" /></p>
 
+<b>UnrealCV: Virtual Worlds for Computer Vision (2017)</b> [[Link]](http://unrealcv.org/)[[Paper]](http://www.idm.pku.edu.cn/staff/wangyizhou/papers/ACMMM2017_UnrealCV.pdf)
+<br>An open source project to help computer vision researchers build virtual worlds using Unreal Engine 4.
+<p align="center"><img width="50%" src="http://unrealcv.org/images/homepage_teaser.png" /></p>
 <a name="single_classification" />
 
 ## Single Object Classification
