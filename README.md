@@ -55,6 +55,10 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>12 categories, on average 3k+ objects per category, for 3D object detection and pose estimation.
 <p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/pascal3d+/pascal3d.png" /></p>
 
+<b>SHREC 2014 - Large Scale Comprehensive 3D Shape Retrieval (2014)</b> [[Link]](http://www.itl.nist.gov/iad/vug/sharp/contest/2014/Generic3D/index.html)[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.431.7090&rep=rep1&type=pdf)
+<br>8,987 models, categorized into 171 classes for shape retrieval.
+<p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/pascal3d+/pascal3d.png" /></p>
+
 <b>ModelNet (2015)</b> [[Link]](http://modelnet.cs.princeton.edu/#)
 <br>127915 3D CAD models from 662 categories
 <br>ModelNet10: 4899 models from 10 categories
