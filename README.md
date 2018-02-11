@@ -434,6 +434,9 @@ _Deep Learning Methods_
 :camera::space_invader: <b>MarrNet: 3D Shape Reconstruction via 2.5D Sketches (2017)</b> [[Paper]](http://marrnet.csail.mit.edu/)
 <p align="center"><img width="50%" src="http://marrnet.csail.mit.edu/images/model.jpg" /></p>
 
+:game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
+<p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
+
 <a name="style_transfer" />
 
 ## Style Transfer
