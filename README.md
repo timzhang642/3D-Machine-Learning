@@ -161,6 +161,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <b>Relative Camera Pose Estimation Using Convolutional Neural Networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1702.01381.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Relative%20Camera%20Pose%20Estimation%20Using%20Convolutional%20Neural%20Networks.png" /></p>
 
+<b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
+<p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
+
 <a name="single_classification" />
 
 ## Single Object Classification
@@ -481,6 +484,9 @@ _Deep Learning Methods_
 :camera::space_invader: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
 <p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/problem_fig.png" /></p>
 
+:camera::space_invader: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
+<p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
@@ -583,3 +589,6 @@ _Deep Learning Methods_
 
 <b>Semantic Scene Completion from a Single Depth Image (2017)</b> [[Paper]](http://sscnet.cs.princeton.edu/) [[Code]](https://github.com/shurans/sscnet)
 <p align="center"><img width="50%" src="http://sscnet.cs.princeton.edu/teaser.jpg" /></p>
+
+<b>Factoring Shape, Pose, and Layout  from the 2D Image of a 3D Scene (2018 CVPR)</b> [[Paper]](http://sscnet.cs.princeton.edu/) [[Code]](https://shubhtuls.github.io/factored3d/)
+<p align="center"><img width="50%" src="https://shubhtuls.github.io/factored3d/resources/images/teaser.png" /></p>
