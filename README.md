@@ -153,7 +153,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Generic%203D%20Representation%20via%20Pose%20Estimation%20and%20Matching.jpeg" /></p>
 
 <b>3D Bounding Box Estimation Using Deep Learning and Geometry (2017)</b> [[Paper]](https://arxiv.org/pdf/1612.00496.pdf)
-<p align="center"><img width="50%" src="https://cs.gmu.edu/~amousavi/paper_imgs/deep3DBox.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/3D%20Bounding%20Box%20Estimation%20Using%20Deep%20Learning%20and%20Geometry.png" /></p>
 
 <b>6-DoF Object Pose from Semantic Keypoints (2017)</b> [[Paper]](https://www.seas.upenn.edu/~pavlakos/projects/object3d/)
 <p align="center"><img width="50%" src="https://www.seas.upenn.edu/~pavlakos/projects/object3d/files/object3d-teaser.png" /></p>
