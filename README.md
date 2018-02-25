@@ -158,6 +158,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <b>6-DoF Object Pose from Semantic Keypoints (2017)</b> [[Paper]](https://www.seas.upenn.edu/~pavlakos/projects/object3d/)
 <p align="center"><img width="50%" src="https://www.seas.upenn.edu/~pavlakos/projects/object3d/files/object3d-teaser.png" /></p>
 
+<b>Relative Camera Pose Estimation Using Convolutional Neural Networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1702.01381.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Relative%20Camera%20Pose%20Estimation%20Using%20Convolutional%20Neural%20Networks.png" /></p>
+
 <a name="single_classification" />
 
 ## Single Object Classification
@@ -474,6 +477,9 @@ _Deep Learning Methods_
 
 :game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
 <p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
+
+:camera::space_invader: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
+<p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/problem_fig.png" /></p>
 
 <a name="style_transfer" />
 
