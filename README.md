@@ -485,7 +485,7 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/problem_fig.png" /></p>
 
 :camera::space_invader::game_die: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
-<p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
+<p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/Network.png" /></p>
 
 <a name="style_transfer" />
 
