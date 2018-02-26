@@ -481,11 +481,11 @@ _Deep Learning Methods_
 :game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
 <p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
 
-:camera::space_invader: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
-<p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/problem_fig.png" /></p>
-
-:camera::space_invader::game_die: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
+:camera::space_invader::game_die: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
 <p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/Network.png" /></p>
+
+:camera::space_invader: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
+<p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
 
 <a name="style_transfer" />
 
