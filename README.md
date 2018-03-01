@@ -12,6 +12,8 @@ I'll use the following icons to differentiate 3D representations:
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
 ## Available Courses
+[UCSD CSE291-I00: Machine Learning for 3D Data (Winter 2018)](https://cse291-i.github.io/index.html)
+
 [Stanford CS468: Machine Learning for 3D Data (Spring 2017)](http://graphics.stanford.edu/courses/cs468-17-spring/)
 
 [MIT 6.838: Shape Analysis (Spring 2017)](http://groups.csail.mit.edu/gdpgroup/6838_spring_2017.html)
