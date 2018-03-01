@@ -9,7 +9,7 @@ I'll use the following icons to differentiate 3D representations:
 * :pill: Primitive-based
 
 ## Get Involved
-To make it a collaborative project, you may add content throught pull requests or open an issue to let me know. 
+To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
 ## Available Courses
 [Stanford CS468: Machine Learning for 3D Data (Spring 2017)](http://graphics.stanford.edu/courses/cs468-17-spring/)
