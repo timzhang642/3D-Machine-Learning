@@ -93,6 +93,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <a name="3d_scenes" />
 
 ### 3D Scenes
+<b>NYU Depth Dataset V2 (2012)</b> [[Link]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+<br>1449 densely labeled pairs of aligned RGB and depth images from Kinect video sequences for a variety of indoor scenes.
+<p align="center"><img width="50%" src="https://cs.nyu.edu/~silberman/images/nyu_depth_v2_labeled.jpg" /></p>
 
 <b>SUNRGB-D 3D Object Detection Challenge</b> [[Link]](http://rgbd.cs.princeton.edu/challenge.html)
 <br>19 object categories for predicting a 3D bounding box in real world dimension
