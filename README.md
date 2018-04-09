@@ -87,7 +87,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" /></p>
 
 <b>Thingi10K: A Dataset of 10,000 3D-Printing Models (2016)</b> [[Link]](https://ten-thousand-models.appspot.com/)
-<br>10,000 models from from featured “things” on thingiverse.com suitable for testing 3D printing techniques such as structural analysis , shape optimization, or solid geometry operations.
+<br>10,000 models from featured “things” on thingiverse.com, suitable for testing 3D printing techniques such as structural analysis , shape optimization, or solid geometry operations.
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DRbxWnqXkAEEH0g.jpg:large" /></p>
 
 <a name="3d_scenes" />
