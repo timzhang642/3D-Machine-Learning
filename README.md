@@ -50,8 +50,12 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <a name="3d_models" />
 
 ### 3D Models
+<b>Princeton Shape Benchmark (2003)</b> [[Link]](http://shape.cs.princeton.edu/benchmark/)
+<br>1,814 models collected from the web in .OFF format. Used to evaluating shape-based retrieval and analysis algorithms.
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Princeton%20Shape%20Benchmark%20(2003).jpeg" /></p>
+
 <b>Dataset for IKEA 3D models and aligned images (2013)</b> [[Link]](http://ikea.csail.mit.edu/)
-<br>759 images and 219 models including Sketchup (skp) and Wavefront (obj) files.
+<br>759 images and 219 models including Sketchup (skp) and Wavefront (obj) files, good for pose estimation.
 <p align="center"><img width="50%" src="http://ikea.csail.mit.edu/web_img/ikea_object.png" /></p>
 
 <b>PASCAL3D+ (2014)</b> [[Link]](http://cvgl.stanford.edu/projects/pascal3d.html)
