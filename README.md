@@ -522,6 +522,9 @@ _Deep Learning Methods_
 :camera::game_die: <b>Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction (AAAI 2018)</b> [[Paper]](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r05.png" /></p>
 
+:camera::game_die: <b>FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](http://art-programmer.github.io/floornet.html)
+<p align="center"><img width="50%" src="http://art-programmer.github.io/floornet/teaser.png" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
