@@ -34,12 +34,12 @@ To make it a collaborative project, you may add content through pull requests or
 - [Single Object Classification](#single_classification)
 - [Multiple Objects Detection](#multiple_detection)
 - [Scene/Object Semantic Segmentation](#segmentation)
-- [3D Synthesis/Reconstruction](#3d_synthesis)
+- [3D Model Synthesis/Reconstruction](#3d_synthesis)
   - [Parametric Morphable Model-based methods](#3d_synthesis_model_based)
   - [Part-based Template Learning methods](#3d_synthesis_template_based)
   - [Deep Learning Methods](#3d_synthesis_dl_based)
 - [Style Transfer](#style_transfer)
-- [Scene Synthesis](#scene_synthesis)
+- [Scene Synthesis/Reconstruction](#scene_synthesis)
 - [Scene Understanding](#scene_understanding)
 
 <a name="datasets" />
@@ -318,7 +318,7 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 
 <a name="3d_synthesis" />
 
-## 3D Synthesis/Reconstruction
+## 3D Model Synthesis/Reconstruction
 
 <a name="3d_synthesis_model_based" />
 
@@ -554,7 +554,7 @@ _Deep Learning Methods_
 
 <a name="scene_synthesis" />
 
-## Scene Synthesis
+## Scene Synthesis/Reconstruction
 <b>Make It Home: Automatic Optimization of Furniture Arrangement (2011, SIGGRAPH)</b> [[Paper]](http://people.sutd.edu.sg/~saikit/projects/furniture/index.html)
 <p align="center"><img width="40%" src="https://www.cs.umb.edu/~craigyu/img/papers/furniture.gif" /></p>
 
