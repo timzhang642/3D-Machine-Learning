@@ -322,6 +322,9 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 :camera::space_invader: <b>3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation (2018)</b> [[Paper]](https://arxiv.org/pdf/1803.10409.pdf)
 <p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/1threedmv/teaser.jpg" /></p>
 
+:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
+<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
+
 <a name="3d_synthesis" />
 
 ## 3D Model Synthesis/Reconstruction
@@ -606,6 +609,9 @@ _Deep Learning Methods_
 :camera::game_die: <b>FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](http://art-programmer.github.io/floornet.html)
 <p align="center"><img width="50%" src="http://art-programmer.github.io/floornet/teaser.png" /></p>
 
+:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
+<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
+
 <a name="scene_understanding" />
 
 ## Scene Understanding
@@ -659,6 +665,3 @@ _Deep Learning Methods_
 
 <b>PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image (2018 CVPR)</b> [[Paper]](http://art-programmer.github.io/planenet/paper.pdf) [[Code]](http://art-programmer.github.io/planenet.html)
 <p align="center"><img width="50%" src="http://art-programmer.github.io/images/planenet.png" /></p>
-
-:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
-<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
