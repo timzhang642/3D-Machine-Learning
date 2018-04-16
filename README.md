@@ -492,6 +492,9 @@ _Deep Learning Methods_
 :camera::space_invader: <b>Weakly supervised 3D Reconstruction with Adversarial Constraint (2017)</b> [[Paper]](https://arxiv.org/pdf/1705.10904.pdf) [[Code]](https://github.com/jgwak/McRecon)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Weakly%20supervised%203D%20Reconstruction%20with%20Adversarial%20Constraint%20(2017).jpeg" /></p>
 
+:camera: <b>SurfNet: Generating 3D shape surfaces using deep residual networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1703.04079.pdf)
+<p align="center"><img width="50%" src="https://3dadept.com/wp-content/uploads/2017/07/Screenshot-from-2017-07-26-145521-e1501077539723.png" /></p>
+
 :gem: <b>Exploring Generative 3D Shapes Using Autoencoder Networks (Autodesk 2017)</b> [[Paper]](https://www.autodeskresearch.com/publications/exploring_generative_3d_shapes)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Exploring%20Generative%203D%20Shapes%20Using%20Autoencoder%20Networks.jpeg" /></p>
 
