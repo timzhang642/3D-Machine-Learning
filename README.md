@@ -33,6 +33,7 @@ We have also created a Slack workplace for people around the globe to ask questi
 - [Scene Understanding](#scene_understanding)
 
 <a name="courses" />
+
 ## Available Courses
 [UCSD CSE291-I00: Machine Learning for 3D Data (Winter 2018)](https://cse291-i.github.io/index.html)
 
