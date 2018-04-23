@@ -362,7 +362,7 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 :gem: <b>Image2Mesh: A Learning Framework for Single Image 3D Reconstruction (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.10669.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DW5VhjpW4AAESHO.jpg" /></p>
 
-:gem: <b>Learning free-form deformations for 3D object reconstruction (2018)</b> [[Paper]]https://jhonykaesemodel.com/publication/learning_ffd/)
+:gem: <b>Learning free-form deformations for 3D object reconstruction (2018)</b> [[Paper]](https://jhonykaesemodel.com/publication/learning_ffd/)
 <p align="center"><img width="50%" src="https://jhonykaesemodel.com/learning_ffd_overview.png" /></p>
 
 <a name="3d_synthesis_template_based" />
