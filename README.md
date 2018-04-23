@@ -556,6 +556,9 @@ _Deep Learning Methods_
 :camera::game_die: <b>Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction (AAAI 2018)</b> [[Paper]](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r05.png" /></p>
 
+:gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](http://bigvid.fudan.edu.cn/pixel2mesh/)
+<p align="center"><img width="50%" src="http://bigvid.fudan.edu.cn/pixel2mesh/eccv2018/pipeline_01.jpg" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
