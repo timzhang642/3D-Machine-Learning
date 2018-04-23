@@ -356,6 +356,15 @@ _Parametric Morphable Model-based methods_
 Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.net/media/papers/chenkong_cvpr_2017.pdf)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r02.png" /></p>
 
+:gem: <b>Compact Model Representation for 3D Reconstruction (2017)</b> [[Paper]](https://jhonykaesemodel.com/publication/3dv2017/)
+<p align="center"><img width="50%" src="https://jhonykaesemodel.com/img/headers/overview.png" /></p>
+
+:gem: <b>Image2Mesh: A Learning Framework for Single Image 3D Reconstruction (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.10669.pdf)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DW5VhjpW4AAESHO.jpg" /></p>
+
+:gem: <b>Learning free-form deformations for 3D object reconstruction (2018)</b> [[Paper]]https://jhonykaesemodel.com/publication/learning_ffd/)
+<p align="center"><img width="50%" src="https://jhonykaesemodel.com/learning_ffd_overview.png" /></p>
+
 <a name="3d_synthesis_template_based" />
 
 _Part-based Template Learning methods_
