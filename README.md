@@ -538,14 +538,17 @@ _Deep Learning Methods_
 :camera::space_invader: <b>MarrNet: 3D Shape Reconstruction via 2.5D Sketches (2017)</b> [[Paper]](http://marrnet.csail.mit.edu/)
 <p align="center"><img width="50%" src="http://marrnet.csail.mit.edu/images/model.jpg" /></p>
 
-:game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
-<p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
-
 :camera::space_invader::game_die: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
 <p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/Network.png" /></p>
 
 :space_invader: <b>3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions (2017)</b> [[Paper]](http://3dmatch.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://3dmatch.cs.princeton.edu/img/overview.jpg" /></p>
+
+:space_invader: <b>Scaling CNNs for High Resolution Volumetric Reconstruction from a Single Image (2017)</b> [[Paper]](https://ieeexplore.ieee.org/document/8265323/)
+<p align="center"><img width="50%" src="https://github.com/frankhjwx/3D-Machine-Learning/blob/master/imgs/Scaling%20CNN%20Reconstruction.png" /></p>
+
+:game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
+<p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
 
 :camera::space_invader: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
 <p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
@@ -553,7 +556,7 @@ _Deep Learning Methods_
 :camera::game_die: <b>Object-Centric Photometric Bundle Adjustment with Deep Shape Prior (2018)</b> [[Paper]](http://ci2cv.net/media/papers/WACV18.pdf)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r06.png" /></p>
 
-:camera::game_die: <b>Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction (AAAI 2018)</b> [[Paper]](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/)
+:camera::game_die: <b>Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction (2018 AAAI)</b> [[Paper]](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r05.png" /></p>
 
 :gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](http://bigvid.fudan.edu.cn/pixel2mesh/)
