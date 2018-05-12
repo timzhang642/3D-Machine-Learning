@@ -355,6 +355,12 @@ _Parametric Morphable Model-based methods_
 :game_die: <b>DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image (2017)</b> [[Paper]](http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf)
 <p align="center"><img width="50%" src="https://chrischoy.github.io/images/publication/deformnet/model.png" /></p>
 
+:gem: <b>Mesh-based Autoencoders for Localized Deformation Component Analysis (2017)</b> [[Paper]](https://arxiv.org/pdf/1709.04304.pdf)
+<p align="center"><img width="50%" src="http://qytan.com/img/point_conv.jpg" /></p>
+
+:gem: <b>Exploring Generative 3D Shapes Using Autoencoder Networks (Autodesk 2017)</b> [[Paper]](https://www.autodeskresearch.com/publications/exploring_generative_3d_shapes)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Exploring%20Generative%203D%20Shapes%20Using%20Autoencoder%20Networks.jpeg" /></p>
+
 :gem: <b>Using Locally Corresponding CAD Models for
 Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.net/media/papers/chenkong_cvpr_2017.pdf)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r02.png" /></p>
@@ -367,6 +373,9 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 
 :gem: <b>Learning free-form deformations for 3D object reconstruction (2018)</b> [[Paper]](https://jhonykaesemodel.com/publication/learning_ffd/)
 <p align="center"><img width="50%" src="https://jhonykaesemodel.com/learning_ffd_overview.png" /></p>
+
+:gem: <b>Variational Autoencoders for Deforming 3D Mesh Models(2018 CVPR)</b> [[Paper]](http://qytan.com/publication/vae/)
+<p align="center"><img width="50%" src="http://humanmotion.ict.ac.cn/papers/2018P5_VariationalAutoencoders/TeaserImage.jpg" /></p>
 
 <a name="3d_synthesis_template_based" />
 
@@ -511,17 +520,11 @@ _Deep Learning Methods_
 :camera: <b>SurfNet: Generating 3D shape surfaces using deep residual networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1703.04079.pdf)
 <p align="center"><img width="50%" src="https://3dadept.com/wp-content/uploads/2017/07/Screenshot-from-2017-07-26-145521-e1501077539723.png" /></p>
 
-:gem: <b>Exploring Generative 3D Shapes Using Autoencoder Networks (Autodesk 2017)</b> [[Paper]](https://www.autodeskresearch.com/publications/exploring_generative_3d_shapes)
-<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Exploring%20Generative%203D%20Shapes%20Using%20Autoencoder%20Networks.jpeg" /></p>
-
 :pill: <b>GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH 2017)</b> [[Paper]](http://kevinkaixu.net/projects/grass.html) [[Code]](https://github.com/junli-lj/grass) [[code]](https://github.com/kevin-kaixu/grass_pytorch)
 <p align="center"><img width="50%" src="http://kevinkaixu.net/projects/grass/teaser.jpg" /></p>
 
 :pill: <b> 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1708.01648.pdf)[[code]](https://github.com/zouchuhang/3D-PRNN)
 <p align="center"><img width="50%" src="https://github.com/zouchuhang/3D-PRNN/blob/master/figs/teasor.jpg" /></p>
-
-:gem: <b>Mesh-based Autoencoders for Localized Deformation Component Analysis (2017)</b> [[Paper]](https://arxiv.org/pdf/1709.04304.pdf)
-<p align="center"><img width="50%" src="http://qytan.com/img/point_conv.jpg" /></p>
 
 :gem: <b>Neural 3D Mesh Renderer (2017)</b> [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Code]](https://github.com/hiroharu-kato/neural_renderer.git)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPSm-4HWkAApEZd.jpg" /></p>
