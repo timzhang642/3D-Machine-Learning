@@ -580,6 +580,9 @@ _Deep Learning Methods_
 :pill: <b>CSGNet: Neural Shape Parser for Constructive Solid Geometry (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.08290.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DR-RgbaU8AEyjeW.jpg" /></p>
 
+:space_invader: <b>Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings (2018)</b> [[Paper]](http://text2shape.stanford.edu/)
+<p align="center"><img width="50%" src="http://text2shape.stanford.edu/figures/pull.png" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
@@ -663,6 +666,9 @@ _Deep Learning Methods_
 
 :space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
 <p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
+
+<b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf) 
+<p align="center"><img width="50%" src="http://msavva.github.io/files/deepsynth.png" /></p>
 
 <a name="scene_understanding" />
 
