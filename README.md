@@ -145,6 +145,10 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>An open source project to help computer vision researchers build virtual worlds using Unreal Engine 4.
 <p align="center"><img width="50%" src="http://unrealcv.org/images/homepage_teaser.png" /></p>
 
+<b>Gibson Environment: Real-World Perception for Embodied Agents (2018 CVPR) </b> [[Link]](http://gibsonenv.stanford.edu/)
+<br>This platform provides RGB from 1000 point clouds, as well as multimodal sensor data: surface normal, depth, and for a fraction of the spaces, semantics object annotations. The environment is also RL ready with physics integrated. Using such datasets can further narrow down the discrepency between virtual environment and real world.
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Gibson%20Environment-%20Real-World%20Perception%20for%20Embodied%20Agents%20(2018%20CVPR)%20.jpeg" /></p>
+
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
