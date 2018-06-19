@@ -587,6 +587,10 @@ _Deep Learning Methods_
 :space_invader: <b>Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings (2018)</b> [[Paper]](http://text2shape.stanford.edu/)
 <p align="center"><img width="50%" src="http://text2shape.stanford.edu/figures/pull.png" /></p>
 
+
+:space_invader::gem::camera: <b>Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation (2018)</b>  [[Paper]](https://arxiv.org/abs/1802.09987) [[Code]](https://github.com/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation) [[Project Page]](https://sites.google.com/site/mvdnips2018)
+<p align="center"><img width="60%" src="imgs/decomposition_new.png" /> <img width="60%" src="imgs/256.png" /></p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
