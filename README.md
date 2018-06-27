@@ -590,6 +590,9 @@ _Deep Learning Methods_
 :space_invader::gem::camera: <b>Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation (2018)</b>  [[Paper]](https://arxiv.org/abs/1802.09987) [[Code]](https://github.com/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation)
 <p align="center"><img width="60%" src="imgs/decomposition_new.png" /> <img width="60%" src="imgs/256.png" /></p>
 
+:space_invader::gem::camera: <b>Pixels, voxels, and views: A study of shape representations for single view 3D object shape prediction (2018 CVPR)</b>  [[Paper]](https://arxiv.org/abs/1804.06032)
+<p align="center"><img width="60%" src="imgs/pixels-voxels-views-rgb2mesh.png" /> </p>
+
 <a name="style_transfer" />
 
 ## Style Transfer
