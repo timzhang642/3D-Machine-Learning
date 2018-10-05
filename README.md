@@ -770,6 +770,9 @@ _Deep Learning Methods_
 <b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf) 
 <p align="center"><img width="50%" src="http://msavva.github.io/files/deepsynth.png" /></p>
 
+<b>Language-Driven Synthesis of 3D Scenes from Scene Databases (SIGGRAPH Asia 2018)</b> [[Paper]](http://www.sfu.ca/~agadipat/publications/2018/T2S/project_page.html) 
+<p align="center"><img width="50%" src="http://www.sfu.ca/~agadipat/publications/2018/T2S/teaser.png" /></p>
+
 <a name="scene_understanding" />
 
 ## Scene Understanding
