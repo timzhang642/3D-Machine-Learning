@@ -282,6 +282,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :game_die::camera: <b>A Network Architecture for Point Cloud Classification via Automatic Depth Images Generation (2018 CVPR)</b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Roveri_A_Network_Architecture_CVPR_2018_paper.pdf)
 <p align="center"><img width="50%" src="https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20180619114732/A-Network-Architecture-for-Point-Cloud-Classification-via-Automatic-Depth-Images-Generation-Image-600x317.jpg" /></p>
 
+:game_die::space_invader: <b>PointGrid: A Deep Network for 3D Shape Understanding (CVPR 2018) </b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf) [[Code]](https://github.com/trucleduc/PointGrid)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointGrid-%20A%20Deep%20Network%20for%203D%20Shape%20Understanding%20(2018).jpeg" /></p>
+
 <a name="multiple_detection" />
 
 ## Multiple Objects Detection
@@ -363,6 +366,9 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 
 :game_die::camera: <b>SPLATNet: Sparse Lattice Networks for Point Cloud Processing (2018)</b> [[Paper]](https://arxiv.org/pdf/1802.08275.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/SPLATNet-%20Sparse%20Lattice%20Networks%20for%20Point%20Cloud%20Processing.jpeg" /></p>
+
+:game_die::space_invader: <b>PointGrid: A Deep Network for 3D Shape Understanding (CVPR 2018) </b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf) [[Code]](https://github.com/trucleduc/PointGrid)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointGrid-%20A%20Deep%20Network%20for%203D%20Shape%20Understanding%20(2018).jpeg" /></p>
 
 <a name="3d_synthesis" />
 
@@ -642,8 +648,11 @@ _Deep Learning Methods_
 :space_invader: <b>Global-to-Local Generative Model for 3D Shapes (SIGGRAPH Asia 2018)</b> [[Paper]](http://vcc.szu.edu.cn/research/2018/G2L)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Global-to-Local%20Generative%20Model%20for%203D%20Shapes.jpg" /></p>
 
-:gem: :game_die: :space_invader: <b>ALIGNet: Partial-Shape Agnostic Alignment via Unsupervised Learning (TOG 2018)</b> [[Paper]](https://bit.ly/alignet) [[Code]](https://github.com/ranahanocka/ALIGNet/)
+:gem::game_die::space_invader: <b>ALIGNet: Partial-Shape Agnostic Alignment via Unsupervised Learning (TOG 2018)</b> [[Paper]](https://bit.ly/alignet) [[Code]](https://github.com/ranahanocka/ALIGNet/)
 <p align="center"><img width="50%" src="https://github.com/ranahanocka/ALIGNet/blob/master/docs/rep.png" /></p>
+
+:game_die::space_invader: <b>PointGrid: A Deep Network for 3D Shape Understanding (CVPR 2018) </b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf) [[Code]](https://github.com/trucleduc/PointGrid)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointGrid-%20A%20Deep%20Network%20for%203D%20Shape%20Understanding%20(2018).jpeg" /></p>
 
 <a name="material_synthesis" />
 
