@@ -36,6 +36,8 @@ We have also created a Slack workplace for people around the globe to ask questi
 <a name="courses" />
 
 ## Available Courses
+[Stanford CS231A: Computer Vision-From 3D Reconstruction to Recognition (Winter 2018)](http://web.stanford.edu/class/cs231a/)
+
 [UCSD CSE291-I00: Machine Learning for 3D Data (Winter 2018)](https://cse291-i.github.io/index.html)
 
 [Stanford CS468: Machine Learning for 3D Data (Spring 2017)](http://graphics.stanford.edu/courses/cs468-17-spring/)
