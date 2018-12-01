@@ -28,8 +28,8 @@ We have also created a Slack workplace for people around the globe to ask questi
   - [Parametric Morphable Model-based methods](#3d_synthesis_model_based)
   - [Part-based Template Learning methods](#3d_synthesis_template_based)
   - [Deep Learning Methods](#3d_synthesis_dl_based)
-- [Texture/Material Synthesis](#material_synthesis)
-- [Style Transfer](#style_transfer)
+- [Texture/Material Analysis and Synthesis](#material_synthesis)
+- [Style Learning and Transfer](#style_transfer)
 - [Scene Synthesis/Reconstruction](#scene_synthesis)
 - [Scene Understanding](#scene_understanding)
 
@@ -661,7 +661,7 @@ _Deep Learning Methods_
 
 <a name="material_synthesis" />
 
-## Texture/Material Synthesis
+## Texture/Material Analysis and Synthesis
 <b>Texture Synthesis Using Convolutional Neural Networks (2015)</b> [[Paper]](https://arxiv.org/pdf/1505.07376.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Texture%20Synthesis%20Using%20Convolutional%20Neural%20Networks.jpeg" /></p>
 
@@ -707,9 +707,12 @@ _Deep Learning Methods_
 <b>PhotoShape: Photorealistic Materials for Large-Scale Shape Collections (2018)</b> [[Paper]](https://keunhong.com/publications/photoshape/)
 <p align="center"><img width="50%" src="https://keunhong.com/publications/photoshape/teaser.jpg" /></p>
 
+<b>Learning Material-Aware Local Descriptors for 3D Shapes (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DV_ShapeMatFeat.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20Material-Aware%20Local%20Descriptors%20for%203D%20Shapes%20(2018).jpeg" /></p>
+
 <a name="style_transfer" />
 
-## Style Transfer
+## Style Learning and Transfer
 <b>Style-Content Separation by Anisotropic Part Scales (2010)</b> [[Paper]](https://www.cs.sfu.ca/~haoz/pubs/xu_siga10_style.pdf)
 <p align="center"><img width="50%" src="https://sites.google.com/site/kevinkaixu/_/rsrc/1472852123106/publications/style_b.jpg?height=145&width=400" /></p>
 
@@ -730,6 +733,9 @@ _Deep Learning Methods_
 
 <b>Learning Detail Transfer based on Geometric Features (2017)</b> [[Paper]](http://surfacedetails.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://surfacedetails.cs.princeton.edu/images/teaser.png" /></p>
+
+<b>Co-Locating Style-Defining Elements on 3D Shapes (2017)</b> [[Paper]](http://people.scs.carleton.ca/~olivervankaick/pubs/style_elem.pdf)
+<p align="center"><img width="50%" src="http://s2017.siggraph.org/sites/default/files/styles/large/public/images/events/c118-e100-publicimage_0-itok=yO8OegQO.png" /></p>
 
 <b>Neural 3D Mesh Renderer (2017)</b> [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Code]](https://github.com/hiroharu-kato/neural_renderer.git)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPSm-4HWkAApEZd.jpg" /></p>
@@ -809,6 +815,12 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>Language-Driven Synthesis of 3D Scenes from Scene Databases (SIGGRAPH Asia 2018)</b> [[Paper]](http://www.sfu.ca/~agadipat/publications/2018/T2S/project_page.html) 
 <p align="center"><img width="50%" src="http://www.sfu.ca/~agadipat/publications/2018/T2S/teaser.png" /></p>
+
+<b>Deep Generative Modeling for Scene Synthesis via Hybrid Representations (2018)</b> [[Paper]](https://arxiv.org/pdf/1808.02084.pdf) 
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Deep%20Generative%20Modeling%20for%20Scene%20Synthesis%20via%20Hybrid%20Representations%20(2018).jpeg" /></p>
+
+<b>GRAINS: Generative Recursive Autoencoders for INdoor Scenes (2018)</b> [[Paper]](https://arxiv.org/pdf/1807.09193.pdf) 
+<p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/373503/new_pics/teaserfig.jpg.750x0_q75_crop.jpg" /></p>
 
 <a name="scene_understanding" />
 
