@@ -218,6 +218,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <b>3D Pose Estimation and 3D Model Retrieval for Objects in the Wild (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1803.11493.pdf)
 <p align="center"><img width="50%" src="https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Documents/team_lepetit/images/grabner/pose_retrieval_overview.png" /></p>
 
+<b>Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects (2018)</b> [[Paper]](https://research.nvidia.com/publication/2018-09_Deep-Object-Pose)
+<p align="center"><img width="50%" src="https://research.nvidia.com/sites/default/files/publications/forwebsite1_0.png" /></p>
+
 <a name="single_classification" />
 
 ## Single Object Classification
@@ -661,6 +664,9 @@ _Deep Learning Methods_
 
 :game_die: <b>GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction (2018)</b> [[Paper]](https://xjqi.github.io/GAL.pdf)
 <p align="center"><img width="50%" src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01237-3_49/MediaObjects/474213_1_En_49_Fig2_HTML.gif" /></p>
+
+:game_die: <b>Visual Object Networks: Image Generation with Disentangled 3D Representation (2018)</b> [[Paper]](https://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Visual%20Object%20Networks-%20Image%20Generation%20with%20Disentangled%203D%20Representation%20(2018).jpeg" /></p>
 
 <a name="material_synthesis" />
 
