@@ -531,7 +531,7 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/OctNetFusion-%20Learning%20Depth%20Fusion%20from%20Data.jpeg" /></p>
 
 :game_die: <b>A Point Set Generation Network for 3D Object Reconstruction from a Single Image (2017)</b> [[Paper]](http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf) [[Code]](https://github.com/fanhqme/PointSetGeneration)
-<p align="center"><img width="50%" src="http://gting.me/2017/07/17/pr-point-set-generation-from-single-image/ps3d_introduction.PNG" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/A%20Point%20Set%20Generation%20Network%20for%203D%20Object%20Reconstruction%20from%20a%20Single%20Image%20(2017).jpeg" /></p>
 
 :game_die: <b>Learning Representations and Generative Models for 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pdf/1707.02392.pdf) [[Code]](https://github.com/optas/latent_3d_points)
 <p align="center"><img width="50%" src="https://github.com/optas/latent_3d_points/blob/master/doc/images/teaser.jpg" /></p>
@@ -590,6 +590,9 @@ _Deep Learning Methods_
 :space_invader: <b>Scaling CNNs for High Resolution Volumetric Reconstruction from a Single Image (2017)</b> [[Paper]](https://ieeexplore.ieee.org/document/8265323/)
 <p align="center"><img width="50%" src="https://github.com/frankhjwx/3D-Machine-Learning/blob/master/imgs/Scaling%20CNN%20Reconstruction.png" /></p>
 
+:pill: <b>ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling (2017)</b> [[Paper]](https://arxiv.org/pdf/1708.01841.pdf)
+<p align="center"><img width="50%" src="https://mhsung.github.io/assets/images/complement-me/figure_2.png" /></p>
+
 :game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
 <p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
 
@@ -602,8 +605,8 @@ _Deep Learning Methods_
 :camera::game_die: <b>Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction (2018 AAAI)</b> [[Paper]](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/)
 <p align="center"><img width="50%" src="https://chenhsuanlin.bitbucket.io/images/rp/r05.png" /></p>
 
-:gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](http://bigvid.fudan.edu.cn/pixel2mesh/)
-<p align="center"><img width="50%" src="http://bigvid.fudan.edu.cn/pixel2mesh/eccv2018/pipeline_01.jpg" /></p>
+:gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](https://github.com/nywang16/Pixel2Mesh)
+<p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/188911/x2.png.750x0_q75_crop.png" /></p>
 
 :gem: <b>AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation (2018 CVPR)</b> [[Paper]](http://imagine.enpc.fr/~groueixt/atlasnet/) [[Code]](https://github.com/ThibaultGROUEIX/AtlasNet)
 <p align="center"><img width="50%" src="http://imagine.enpc.fr/~groueixt/atlasnet/imgs/teaser.small.png" /></p>
@@ -821,6 +824,9 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>GRAINS: Generative Recursive Autoencoders for INdoor Scenes (2018)</b> [[Paper]](https://arxiv.org/pdf/1807.09193.pdf) 
 <p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/373503/new_pics/teaserfig.jpg.750x0_q75_crop.jpg" /></p>
+
+<b>SEETHROUGH: Finding Objects in Heavily Occluded Indoor Scene Images (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DVOral_SeeThrough.pdf) 
+<p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/seethrough/paper_docs/result_plate.png" /></p>
 
 <a name="scene_understanding" />
 
