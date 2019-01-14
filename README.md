@@ -104,6 +104,10 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>10,000 models from featured “things” on thingiverse.com, suitable for testing 3D printing techniques such as structural analysis , shape optimization, or solid geometry operations.
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DRbxWnqXkAEEH0g.jpg:large" /></p>
 
+<b>ABC: A Big CAD Model Dataset For Geometric Deep Learning</b> [[Link]](https://cs.nyu.edu/~zhongshi/publication/abc-dataset/)[[Paper]](https://arxiv.org/abs/1812.06216)
+<br>This work introduce a dataset for geometric deep learning consisting of over 1 million individual (and high quality) geometric models, each associated with accurate ground truth information on the decomposition into patches, explicit sharp feature annotations, and analytic differential properties.<br>
+<p align="center"><img width="50%" src="https://cs.nyu.edu/~zhongshi/img/abc-dataset.png" /></p>
+  
 <a name="3d_scenes" />
 
 ### 3D Scenes
@@ -160,6 +164,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>System Overview: an end-to-end pipeline to render an RGB-D-inertial benchmark for large scale interior scene understanding and mapping. Our dataset contains 20M images created by pipeline: (A) We collect around 1 million CAD models provided by world-leading furniture manufacturers. These models have been used in the real-world production. (B) Based on those models, around 1,100 professional designers create around 22 million interior layouts. Most of such layouts have been used in real-world decorations. (C) For each layout, we generate a number of configurations to represent different random lightings and simulation of scene change over time in daily life. (D) We provide an interactive simulator (ViSim) to help for creating ground truth IMU, events, as well as monocular or stereo camera trajectories including hand-drawn, random walking and neural network based realistic trajectory. (E) All supported image sequences and ground truth.
 <p align="center"><img width="50%" src="https://interiornet.org/items/InteriorNet.jpg" /></p>
 
+<b>Semantic3D</b>[[Link]](http://www.semantic3d.net/)
+<br>Large-Scale Point Cloud Classification Benchmark, which provides a large labelled 3D point cloud data set of natural scenes with over 4 billion points in total, and also covers a range of diverse urban scenes.
+<p align="center"><img width="50%" src="http://www.semantic3d.net/img/full_resolution/sg27_8.jpg" /></p>
 
 <a name="pose_estimation" />
 
