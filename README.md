@@ -17,6 +17,7 @@ We have also created a Slack workplace for people around the globe to ask questi
 
 ## Table of Contents
 - [Courses](#courses)
+- [Conferences](#conferences)
 - [Datasets](#datasets)
   - [3D Models](#3d_models)
   - [3D Scenes](#3d_scenes)
@@ -51,6 +52,21 @@ We have also created a Slack workplace for people around the globe to ask questi
 [Geometric Deep Learning](http://geometricdeeplearning.com/)
 
 [Paper Collection for 3D Understanding](https://www.cs.princeton.edu/courses/archive/spring15/cos598A/cos598A.html#Estimating)
+
+<a name="conferences" />
+
+## Conferences
+A list of relevantc onferences:
+
+[SIGGRAPH](https://www.siggraph.org)
+
+[SIGGRAPH Asia](https://sa2018.siggraph.org/en/)
+
+[SGP](https://sgp2018.sciencesconf.org)
+
+[ICLR](https://iclr.cc)
+
+[CVPR](http://cvpr2018.thecvf.com)
 
 <a name="datasets" />
 
