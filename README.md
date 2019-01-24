@@ -52,6 +52,8 @@ We have also created a Slack workplace for people around the globe to ask questi
 
 [Paper Collection for 3D Understanding](https://www.cs.princeton.edu/courses/archive/spring15/cos598A/cos598A.html#Estimating)
 
+[CreativeAI: Deep Learning for Graphics](http://geometry.cs.ucl.ac.uk/creativeai/)
+
 <a name="datasets" />
 
 ## Datasets
