@@ -673,8 +673,11 @@ _Deep Learning Methods_
 :game_die: <b>Visual Object Networks: Image Generation with Disentangled 3D Representation (2018)</b> [[Paper]](https://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Visual%20Object%20Networks-%20Image%20Generation%20with%20Disentangled%203D%20Representation%20(2018).jpeg" /></p>
 
-:space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))
+:space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))</b> [[Paper]](http://shape2prog.csail.mit.edu/)
 <p align="center"><img width="50%" src="http://shape2prog.csail.mit.edu/shape_files/teaser.jpg" /></p>
+  
+:space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))</b> [[Paper]](https://arxiv.org/pdf/1901.05103.pdf)
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DxFaW-mU8AEo9wc.jpg" /></p>
 
 <a name="material_synthesis" />
 
