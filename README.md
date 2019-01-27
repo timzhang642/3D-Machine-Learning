@@ -76,10 +76,6 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>12 categories, on average 3k+ objects per category, for 3D object detection and pose estimation.
 <p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/pascal3d+/pascal3d.png" /></p>
 
-<b>SHREC 2014 - Large Scale Comprehensive 3D Shape Retrieval (2014)</b> [[Link]](http://www.itl.nist.gov/iad/vug/sharp/contest/2014/Generic3D/index.html)[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.431.7090&rep=rep1&type=pdf)
-<br>8,987 models, categorized into 171 classes for shape retrieval.
-<p align="center"><img width="50%" src="http://www.itl.nist.gov/iad/vug/sharp/contest/2014/Generic3D/index_files/fig1.png" /></p>
-
 <b>ModelNet (2015)</b> [[Link]](http://modelnet.cs.princeton.edu/#)
 <br>127915 3D CAD models from 662 categories
 <br>ModelNet10: 4899 models from 10 categories
@@ -675,6 +671,9 @@ _Deep Learning Methods_
 :game_die: <b>Visual Object Networks: Image Generation with Disentangled 3D Representation (2018)</b> [[Paper]](https://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Visual%20Object%20Networks-%20Image%20Generation%20with%20Disentangled%203D%20Representation%20(2018).jpeg" /></p>
 
+:space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))
+<p align="center"><img width="50%" src="http://shape2prog.csail.mit.edu/shape_files/teaser.jpg" /></p>
+
 <a name="material_synthesis" />
 
 ## Texture/Material Analysis and Synthesis
@@ -783,6 +782,9 @@ _Deep Learning Methods_
 <b>Action-Driven 3D Indoor Scene Evolution (2016)</b> [[Paper]](https://www.cs.sfu.ca/~haoz/pubs/ma_siga16_action.pdf)
 <p align="center"><img width="50%" src="https://maruitx.github.io/project/adise/teaser.jpg" /></p>
 
+<b>The Clutterpalette: An Interactive Tool for Detailing Indoor Scenes (2015)</b> [[Paper]](https://www.cs.umb.edu/~craigyu/papers/clutterpalette.pdf)
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/The%20Clutterpalette-%20An%20Interactive%20Tool%20for%20Detailing%20Indoor%20Scenes.png" /></p>
+
 <b>Relationship Templates for Creating Scene Variations (2016)</b> [[Paper]](http://geometry.cs.ucl.ac.uk/projects/2016/relationship-templates/)
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2016/relationship-templates/paper_docs/teaser.png" /></p>
 
@@ -844,6 +846,9 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <a name="scene_understanding" />
 
 ## Scene Understanding
+<b>Recovering the Spatial Layout of Cluttered Rooms (2009)</b> [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
+<p align="center"><img width="60%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Recovering%20the%20Spatial%20Layout%20of%20Cluttered%20Rooms.png" /></p>
+
 <b>Characterizing Structural Relationships in Scenes Using Graph Kernels (2011 SIGGRAPH)</b> [[Paper]](https://graphics.stanford.edu/~mdfisher/graphKernel.html)
 <p align="center"><img width="60%" src="https://graphics.stanford.edu/~mdfisher/papers/graphKernelTeaser.png" /></p>
 
@@ -860,7 +865,7 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <p align="center"><img width="50%" src="http://panocontext.cs.princeton.edu/teaser.jpg" /></p>
 
 <b>Learning Informative Edge Maps for Indoor Scene Layout Prediction (2015)</b> [[Paper]](http://web.engr.illinois.edu/~slazebni/publications/iccv15_informative.pdf)
-<p align="center"><img width="50%" src="http://img.blog.csdn.net/20170820185439268?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYmFpeXU5ODIxMTc5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20Informative%20Edge%20Maps%20for%20Indoor%20Scene%20Layout%20Prediction.png" /></p>
 
 <b>Rent3D: Floor-Plan Priors for Monocular Layout Estimation (2015)</b> [[Paper]](http://www.cs.toronto.edu/~fidler/projects/rent3D.html)
 <p align="center"><img width="50%" src="http://www.cs.toronto.edu/~fidler/projects/layout-res.jpg" /></p>
