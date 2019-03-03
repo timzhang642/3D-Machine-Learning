@@ -105,7 +105,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <b>ABC: A Big CAD Model Dataset For Geometric Deep Learning</b> [[Link]](https://cs.nyu.edu/~zhongshi/publication/abc-dataset/)[[Paper]](https://arxiv.org/abs/1812.06216)
 <br>This work introduce a dataset for geometric deep learning consisting of over 1 million individual (and high quality) geometric models, each associated with accurate ground truth information on the decomposition into patches, explicit sharp feature annotations, and analytic differential properties.<br>
 <p align="center"><img width="50%" src="https://cs.nyu.edu/~zhongshi/img/abc-dataset.png" /></p>
-  
+
 <a name="3d_scenes" />
 
 ### 3D Scenes
@@ -295,7 +295,11 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :game_die::space_invader: <b>PointGrid: A Deep Network for 3D Shape Understanding (CVPR 2018) </b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf) [[Code]](https://github.com/trucleduc/PointGrid)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointGrid-%20A%20Deep%20Network%20for%203D%20Shape%20Understanding%20(2018).jpeg" /></p>
 
+:gem: <b> MeshNet: Mesh Neural Network for 3D Shape Representation (AAAI 2019) </b> [[Paper]](https://arxiv.org/pdf/1811.11424.pdf) [[Code]](https://github.com/Yue-Group/MeshNet)
+<p align="center"><img width="50%" src="http://www.gaoyue.org/en_tsinghua/resrc/meshnet.jpg" /></p>
+
 <a name="multiple_detection" />
+
 
 ## Multiple Objects Detection
 <b>Sliding Shapes for 3D Object Detection in Depth Images (2014)</b> [[Paper]](http://slidingshapes.cs.princeton.edu/)
@@ -675,7 +679,7 @@ _Deep Learning Methods_
 
 :space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))</b> [[Paper]](http://shape2prog.csail.mit.edu/)
 <p align="center"><img width="50%" src="http://shape2prog.csail.mit.edu/shape_files/teaser.jpg" /></p>
-  
+
 :space_invader: <b>Learning to Infer and Execute 3D Shape Programs (2019))</b> [[Paper]](https://arxiv.org/pdf/1901.05103.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DxFaW-mU8AEo9wc.jpg" /></p>
 
@@ -729,6 +733,10 @@ _Deep Learning Methods_
 
 <b>Learning Material-Aware Local Descriptors for 3D Shapes (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DV_ShapeMatFeat.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20Material-Aware%20Local%20Descriptors%20for%203D%20Shapes%20(2018).jpeg" /></p>
+
+<b>FrankenGAN: Guided Detail Synthesis for Building Mass Models 
+using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.cs.ucl.ac.uk/projects/2018/frankengan/)
+<p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/frankengan/paper_docs/teaser.jpg" /></p>
 
 <a name="style_transfer" />
 
@@ -917,3 +925,4 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>Automatic 3D Indoor Scene Modeling from Single Panorama (2018 CVPR)</b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf) <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Automatic%203D%20Indoor%20Scene%20Modeling%20from%20Single%20Panorama%20(2018%20CVPR).jpeg" /></p>
 
+<b>Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (2019 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
