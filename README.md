@@ -925,4 +925,4 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>Automatic 3D Indoor Scene Modeling from Single Panorama (2018 CVPR)</b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf) <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Automatic%203D%20Indoor%20Scene%20Modeling%20from%20Single%20Panorama%20(2018%20CVPR).jpeg" /></p>
 
-<b>Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (2019 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
+<b>Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (2019 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction) <p align="center"><img width="50%" src="https://github.com/svip-lab/PlanarReconstruction/blob/master/misc/pipeline.jpg" /></p>
