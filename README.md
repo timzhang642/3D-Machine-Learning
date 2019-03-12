@@ -286,6 +286,12 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 
 <p align="center"><img width="50%" src="imgs/a-square-net-min.jpg" /></p>
 
+<b>Stereo R-CNN based 3D Object Detection for Autonomous Driving (CVPR2019)</b> [[Paper]](https://arxiv.org/abs/1902.09738v1)
+
+<p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/515338/system_newnew.png" /></p>
+
+
+
 <a name="segmentation" />
 
 ## Scene/Object Semantic Segmentation
