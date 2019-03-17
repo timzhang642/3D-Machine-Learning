@@ -320,8 +320,19 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <b>VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.06396.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPMtLhHXUAcQUj2.jpg" /></p>
 
-<b>Frustum PointNets for 3D Object Detection from RGB-D Data (2017)</b> [[Paper]](https://arxiv.org/pdf/1711.08488.pdf)
-<p align="center"><img width="50%" src="https://arxiv-sanity-sanity-production.s3.amazonaws.com/render-output/17548/fig/teaser.svg" /></p>
+<b>Frustum PointNets for 3D Object Detection from RGB-D Data (CVPR2018)</b> [[Paper]](https://arxiv.org/pdf/1711.08488.pdf)
+
+<p align="center"><img width="50%" src="http://stanford.edu/~rqi/frustum-pointnets/images/teaser.jpg" /></p>
+
+<b>A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes (AAAI2019)</b> [[Paper]](https://arxiv.org/abs/1901.00785)
+
+<p align="center"><img width="50%" src="imgs/a-square-net-min.jpg" /></p>
+
+<b>Stereo R-CNN based 3D Object Detection for Autonomous Driving (CVPR2019)</b> [[Paper]](https://arxiv.org/abs/1902.09738v1)
+
+<p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/515338/system_newnew.png" /></p>
+
+
 
 <a name="segmentation" />
 
