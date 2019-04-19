@@ -118,7 +118,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>Training set: 10,355 RGB-D scene images, Testing set: 2860 RGB-D images
 <p align="center"><img width="50%" src="http://rgbd.cs.princeton.edu/3dbox.png" /></p>
 
-<b>SceneNN (2016)</b> [[Link]](http://people.sutd.edu.sg/~saikit/projects/sceneNN/)
+<b>SceneNN (2016)</b> [[Link]](http://www.scenenn.net/)
 <br>100+ indoor scene meshes with per-vertex and per-pixel annotation.
 <p align="center"><img width="50%" src="https://cdn-ak.f.st-hatena.com/images/fotolife/r/robonchu/20170611/20170611155625.png" /></p>
 
