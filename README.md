@@ -404,6 +404,9 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 :game_die: <b>PointConv (2018)</b> [[Paper]](https://github.com/DylanWusee/pointconv/tree/master/imgs)[[Code]](https://github.com/DylanWusee/pointconv/tree/master/imgs)
 <p align="center"><img width="50%" src="https://pics4.baidu.com/feed/8b82b9014a90f603272fe29f88ef061fb251ed49.jpeg?token=b23e1dbbaeaf12ffe3d168bd997a8d66&s=01307D328FE07C010C69C1CE0000D0B3" /></p>
 
+:game_die: <b>SpiderCNN (2018)</b> [[Paper]](https://github.com/xyf513/SpiderCNN)[[Code]](https://github.com/xyf513/SpiderCNN)
+<p align="center"><img width="50%" src="http://5b0988e595225.cdn.sohucs.com/images/20181109/45c3b670e67f43b288791c650fb7fb0b.jpeg" /></p>
+
 <a name="3d_synthesis" />
 
 ## 3D Model Synthesis/Reconstruction
