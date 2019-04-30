@@ -298,6 +298,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :gem: <b> MeshNet: Mesh Neural Network for 3D Shape Representation (AAAI 2019) </b> [[Paper]](https://arxiv.org/pdf/1811.11424.pdf) [[Code]](https://github.com/Yue-Group/MeshNet)
 <p align="center"><img width="50%" src="http://www.gaoyue.org/en_tsinghua/resrc/meshnet.jpg" /></p>
 
+:game_die: <b>SpiderCNN (2018)</b> [[Paper]](https://github.com/xyf513/SpiderCNN)
+<p align="center"><img width="50%" src="http://5b0988e595225.cdn.sohucs.com/images/20181109/45c3b670e67f43b288791c650fb7fb0b.jpeg" /></p>
+
 <a name="multiple_detection" />
 
 
