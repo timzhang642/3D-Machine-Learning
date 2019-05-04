@@ -800,6 +800,9 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 :gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](http://bigvid.fudan.edu.cn/pixel2mesh/)
 <p align="center"><img width="50%" src="http://bigvid.fudan.edu.cn/pixel2mesh/eccv2018/pipeline_01.jpg" /></p>
 
+<b>Automatic Unpaired Shape Deformation Transfer (SIGGRAPH Asia 2018)</b> [[Paper]](http://geometrylearning.com/ausdt/)
+<p align="center"><img width="50%" src="http://geometrylearning.com/ausdt/imgs/teaser.png" /></p>
+
 <a name="scene_synthesis" />
 
 ## Scene Synthesis/Reconstruction
