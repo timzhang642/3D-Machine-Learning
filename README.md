@@ -318,7 +318,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <p align="center"><img width="50%" src="http://3dvision.princeton.edu/slide/DSS.jpg" /></p>
 
 <b>Three-Dimensional Object Detection and Layout Prediction using Clouds of Oriented Gradients (2016)</b> [[CVPR '16 Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.pdf) [[CVPR '18 Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_3D_Object_Detection_CVPR_2018_paper.pdf) [[T-PAMI '19 Paper]](https://arxiv.org/pdf/1906.04725) 
-<p align="center"><img width="50%" src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjzwI7P-uLiAhWrc98KHfebC88QjRx6BAgBEAQ&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F764a%2Ff6496cc13f4087f28c6adc0912b47e2db1d5.pdf&psig=AOvVaw0seJD5k_5QtAoJ6x9n2yRA&ust=1560394992395836" /></p>
+<p align="center"><img width="50%" src="https://github.com/luvegood/3D-Machine-Learning/blob/master/imgs/Three-Dimensional%20Object%20Detection%20and%20Layout%20Prediction%20using%20Clouds%20of%20Oriented%20Gradients.png" /></p>
 
 <b>DeepContext: Context-Encoding Neural Pathways  for 3D Holistic Scene Understanding (2016)</b> [[Paper]](http://deepcontext.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://deepcontext.cs.princeton.edu/teaser.png" /></p>
