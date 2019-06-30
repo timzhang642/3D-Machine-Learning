@@ -413,6 +413,9 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 :game_die: <b>SpiderCNN (2018)</b> [[Paper]](https://github.com/xyf513/SpiderCNN)[[Code]](https://github.com/xyf513/SpiderCNN)
 <p align="center"><img width="50%" src="http://5b0988e595225.cdn.sohucs.com/images/20181109/45c3b670e67f43b288791c650fb7fb0b.jpeg" /></p>
 
+:space_invader: <b>3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1812.07003.pdf)[[Code]](https://github.com/Sekunde/3D-SIS)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/6sis/teaser.jpg" /></p>
+
 <a name="3d_synthesis" />
 
 ## 3D Model Synthesis/Reconstruction
@@ -893,6 +896,18 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>SEETHROUGH: Finding Objects in Heavily Occluded Indoor Scene Images (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DVOral_SeeThrough.pdf) 
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/seethrough/paper_docs/result_plate.png" /></p>
+
+<b>:space_invader: Scan2CAD: Learning CAD Model Alignment in RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1811.11187.pdf) [[Code]] (https://github.com/skanti/Scan2CAD)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/5scan2cad/teaser.jpg" /></p>
+
+<b>:gem: Scan2Mesh: From Unstructured Range Scans to 3D Meshes (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1811.10464.pdf)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/4scan2mesh/teaser.jpg" /></p>
+
+<b>:space_invader: 3D-SIC: 3D Semantic Instance Completion for RGB-D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/pdf/1904.12012.pdf)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z1sic/teaser.jpg" /></p>
+
+<b>:space_invader: End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/abs/1906.04201)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z2end2end/teaser.jpg" /></p>
 
 <a name="scene_understanding" />
 
