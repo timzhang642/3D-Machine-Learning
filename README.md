@@ -718,6 +718,9 @@ _Deep Learning Methods_
 :gem: <b>Learning View Priors for Single-view 3D Reconstruction (CVPR 2019)</b> [[Paper]](http://hiroharu-kato.com/projects_en/view_prior_learning.html)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20View%20Priors%20for%20Single-view%203D%20Reconstruction.png" /></p>
 
+:gem::game_die: <b>Learning Embedding of 3D models with Quadric Loss (BMVC 2019)</b> [[Paper]](https://arxiv.org/abs/1907.10250)
+<p align="center"><img width="50%" src="https://www.ics.uci.edu/~agarwal/bmvc_2019.png" /></p>
+
 <a name="material_synthesis" />
 
 ## Texture/Material Analysis and Synthesis
