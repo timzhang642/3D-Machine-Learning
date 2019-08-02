@@ -166,6 +166,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>Large-Scale Point Cloud Classification Benchmark, which provides a large labelled 3D point cloud data set of natural scenes with over 4 billion points in total, and also covers a range of diverse urban scenes.
 <p align="center"><img width="50%" src="http://www.semantic3d.net/img/full_resolution/sg27_8.jpg" /></p>
 
+<b>Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling</b> [[Link]](https://structured3d-dataset.org/)
+<p align="center"><img width="50%" src="https://structured3d-dataset.org/static/img/teaser.png" /></p>
+
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
