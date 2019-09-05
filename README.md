@@ -461,6 +461,10 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 :gem: <b>Variational Autoencoders for Deforming 3D Mesh Models(2018 CVPR)</b> [[Paper]](http://qytan.com/publication/vae/)
 <p align="center"><img width="50%" src="http://humanmotion.ict.ac.cn/papers/2018P5_VariationalAutoencoders/TeaserImage.jpg" /></p>
 
+:gem: <b>	
+Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1712.00268v1.pdf)
+<p align="center"><img width="50%" src="https://orlitany.github.io/OL_files/shapeComp.png" /></p>
+
 :gem: <b>Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images (2018 CVPR)</b> [[Paper]](http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf)
 <p align="center"><img width="50%" src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/realisticava.jpg" /></p>
 
