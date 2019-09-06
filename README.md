@@ -347,7 +347,8 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 
 <p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/515338/system_newnew.png" /></p>
 
-
+<b>Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV2019)</b> [[Paper]](https://arxiv.org/pdf/1904.09664.pdf) [[code]](https://github.com/facebookresearch/votenet)
+<p align="center"><img width="50%" src="https://github.com/facebookresearch/votenet/blob/master/doc/teaser.jpg" /></p>
 
 <a name="segmentation" />
 
