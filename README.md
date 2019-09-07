@@ -729,6 +729,9 @@ _Deep Learning Methods_
 :gem::game_die: <b>Learning Embedding of 3D models with Quadric Loss (BMVC 2019)</b> [[Paper]](https://arxiv.org/abs/1907.10250)
 <p align="center"><img width="50%" src="https://www.ics.uci.edu/~agarwal/bmvc_2019.png" /></p>
 
+:game_die: <b>CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition (ICCV 2019)</b> [[Paper]](https://arxiv.org/abs/1811.07441)[[Code]](https://github.com/nschor/CompoNet)
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/nschor/CompoNet/master/images/network_architecture.png" /></p>
+
 <a name="material_synthesis" />
 
 ## Texture/Material Analysis and Synthesis
