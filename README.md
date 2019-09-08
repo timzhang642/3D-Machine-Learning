@@ -462,10 +462,6 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 :gem: <b>Variational Autoencoders for Deforming 3D Mesh Models(2018 CVPR)</b> [[Paper]](http://qytan.com/publication/vae/)
 <p align="center"><img width="50%" src="http://humanmotion.ict.ac.cn/papers/2018P5_VariationalAutoencoders/TeaserImage.jpg" /></p>
 
-:gem: <b>	
-Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1712.00268v1.pdf)
-<p align="center"><img width="50%" src="https://orlitany.github.io/OL_files/shapeComp.png" /></p>
-
 :gem: <b>Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images (2018 CVPR)</b> [[Paper]](http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf)
 <p align="center"><img width="50%" src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/realisticava.jpg" /></p>
 
@@ -701,6 +697,10 @@ _Deep Learning Methods_
 
 :space_invader: <b>Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1804.10975.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Matryoshka%20Networks-%20Predicting%203D%20Geometry%20via%20Nested%20Shape%20Layers%20(2018%20CVPR).jpeg" /></p>
+
+:gem: <b>	
+Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1712.00268v1.pdf)
+<p align="center"><img width="50%" src="https://orlitany.github.io/OL_files/shapeComp.png" /></p>
 
 :space_invader: <b>Global-to-Local Generative Model for 3D Shapes (SIGGRAPH Asia 2018)</b> [[Paper]](http://vcc.szu.edu.cn/research/2018/G2L)[[Code]](https://github.com/Hao-HUST/G2LGAN)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Global-to-Local%20Generative%20Model%20for%203D%20Shapes.jpg" /></p>
