@@ -106,6 +106,13 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>This work introduce a dataset for geometric deep learning consisting of over 1 million individual (and high quality) geometric models, each associated with accurate ground truth information on the decomposition into patches, explicit sharp feature annotations, and analytic differential properties.<br>
 <p align="center"><img width="50%" src="https://cs.nyu.edu/~zhongshi/img/abc-dataset.png" /></p>
 
+:game_die: <b>ScanObjectNN: A New Benchmark Dataset and Classification Model on Real-World Data (ICCV 2019)</b> [[Link]](https://hkust-vgd.github.io/scanobjectnn/)
+<br>
+This work introduce ScanObjectNN, a new real-world point cloud object dataset based on scanned indoor scene data. The comprehensive benchmark in this work shows that this dataset poses great challenges to existing point cloud classification techniques as objects from real-world scans are often cluttered with background and/or are partial due to occlusions. Three key open problems for point cloud object classification are identified, and a new point cloud classification neural network that achieves state-of-the-art performance on classifying objects with cluttered background is proposed.
+<br>
+<p align="center"><img width="50%" src="https://hkust-vgd.github.io/scanobjectnn/images/objects_teaser.png" /></p>
+
+
 <a name="3d_scenes" />
 
 ### 3D Scenes
@@ -393,6 +400,11 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 :game_die::space_invader: <b>Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 (2017)</b> [[Paper]](https://arxiv.org/pdf/1710.06104.pdf)
 <p align="center"><img width="40%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Core55.png" /></p>
 
+:game_die: <b>Pointwise Convolutional Neural Networks (CVPR 2018)</b> [[Link]](http://pointwise.scenenn.net/)
+<br>
+We propose pointwise convolution that performs on-the-fly voxelization for learning local features of a point cloud.
+<p align="center"><img width="50%" src="http://pointwise.scenenn.net/images/teaser.png" /></p>
+
 :game_die: <b>Dynamic Graph CNN for Learning on Point Clouds (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.07829.pdf)
 <p align="center"><img width="50%" src="https://liuziwei7.github.io/homepage_files/dynamicgcnn_logo.png" /></p>
 
@@ -419,6 +431,29 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 
 :space_invader: <b>3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1812.07003.pdf)[[Code]](https://github.com/Sekunde/3D-SIS)
 <p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/6sis/teaser.jpg" /></p>
+
+:game_die: <b>Real-time Progressive 3D Semantic Segmentation for Indoor Scenes (WACV 2019)</b> [[Link]](https://pqhieu.github.io/research/proseg/)
+<br>
+We propose an efficient yet robust technique for on-the-fly dense reconstruction and semantic segmentation of 3D indoor scenes. Our method is built atop an efficient super-voxel clustering method and a conditional random field with higher-order constraints from structural and object cues, enabling progressive dense semantic segmentation without any precomputation.
+<p align="center"><img width="50%" src="https://pqhieu.github.io/media/images/wacv19/thumbnail.gif" /></p>
+ 
+
+:game_die: <b>JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds (CVPR 2019)</b> [[Link]](https://pqhieu.github.io/research/jsis3d/)
+<br>
+We jointly address the problems of semantic and instance segmentation of 3D point clouds with a multi-task pointwise network that simultaneously performs two tasks: predicting the semantic classes of 3D points and embedding the points into high-dimensional vectors so that points of the same object instance are represented by similar embeddings. We then propose a multi-value conditional random field model to incorporate the semantic and instance labels and formulate the problem of semantic and instance segmentation as jointly optimising labels in the field model.
+<p align="center"><img width="50%" src="./imgs/jsis3d.png" /></p>
+
+
+:game_die: <b>ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics (ICCV 2019)</b> [[Link]](https://hkust-vgd.github.io/shellnet/)
+<br>
+We propose an efficient end-to-end permutation invariant convolution for point cloud deep learning. We use statistics from concentric spherical shells to define representative features and resolve the point order ambiguity, allowing traditional convolution to perform efficiently on such features. 
+<p align="center"><img width="50%" src="https://hkust-vgd.github.io/shellnet/images/shellconv_new.png" /></p>
+
+:game_die: <b>Rotation Invariant Convolutions for 3D Point Clouds Deep Learning (3DV 2019)</b> [[Link]](https://hkust-vgd.github.io/riconv/)
+<br>
+We introduce a novel convolution operator for point clouds that achieves rotation invariance. Our core idea is to use low-level rotation invariant geometric features such as distances and angles to design a convolution operator for point cloud learning. 
+<p align="center"><img width="50%" src="https://hkust-vgd.github.io/riconv/images/RIO_cam.png" /></p>
+
 
 <a name="3d_synthesis" />
 
