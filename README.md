@@ -12,7 +12,7 @@ I'll use the following icons to differentiate 3D representations:
 To contribute to this Repo, you may add content through pull requests or open an issue to let me know. 
 
 :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:<br>
-We have also created a Slack workplace for people around the globe to ask questions, share knowledge and facilitate collaborations. Together, I'm sure we can advance this field as a collaborative effort. Join the community with [this link](https://join.slack.com/t/3d-machine-learning/shared_invite/enQtMzUyMTgyNzgwOTgzLWIzY2M3MTQ1ODgwOWEwMGU3MWYxMThhOWQzZGY4OTdhM2VlYTc2N2FmNGVmMzE0MGJlNjg1NjA5OTRhNzlkOWQ).
+We have also created a Slack workplace for people around the globe to ask questions, share knowledge and facilitate collaborations. Together, I'm sure we can advance this field as a collaborative effort. Join the community with [this link](https://join.slack.com/t/3d-machine-learning/shared_invite/enQtMzUyMTgyNzgwOTgzLTFiYTM4YWFjMTcxY2Q3YjQwMTA3ZGE2OTYwNDRlMDA5NGFmNDU5Njg4ODJhN2YwNmZkMDM4ZTllZWQzNjRjNDc).
 <br>:star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:
 
 ## Table of Contents
