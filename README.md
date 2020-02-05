@@ -431,6 +431,11 @@ _Parametric Morphable Model-based methods_
 <b>A Morphable Model For The Synthesis Of 3D Faces (1999)</b> [[Paper]](http://gravis.dmi.unibas.ch/publications/Sigg99/morphmod2.pdf)[[Code]](https://github.com/MichaelMure/3DMM)
 <p align="center"><img width="40%" src="http://mblogthumb3.phinf.naver.net/MjAxNzAzMTdfMjcz/MDAxNDg5NzE3MzU0ODI3.9lQioLxwoGmtoIVXX9sbVOzhezoqgKMKiTovBnbUFN0g.sXN5tG4Kohgk7OJEtPnux-mv7OAoXVxxCyo3SGZMc6Yg.PNG.atelierjpro/031717_0222_DataDrivenS4.png?type=w420" /></p>
 
+<b>FLAME: Faces Learned with an Articulated Model and Expressions (2017)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)[[Code (Chumpy)]](https://github.com/Rubikplayer/flame-fitting)[[Code (TF)]](https://github.com/TimoBolkart/TF_FLAME)
+<br>[FLAME](http://flame.is.tue.mpg.de/) is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. The model combines a linear identity shape space (trained from 3800 scans of human heads) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes.
+The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fit the model to 3D landmarks or registered 3D meshes, or 3) generate 3D face templates for [speech-driven facial animation](https://github.com/TimoBolkart/voca).
+<p align="center"> <img width="50%" src="https://github.com/TimoBolkart/TF_FLAME/blob/master/gifs/model_variations.gif"></p>
+
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
 
