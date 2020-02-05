@@ -440,6 +440,9 @@ The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fi
 <br>[CoMA](https://coma.is.tue.mpg.de/) is a versatile model that learns a non-linear representation of a face using spectral convolutions on a mesh surface. CoMA introduces mesh sampling operations that enable a hierarchical mesh representation that captures non-linear variations in shape and expression at multiple scales within the model. 
 <p align="center"> <img width="50%" src="https://coma.is.tue.mpg.de/uploads/ckeditor/pictures/91/content_coma_faces.jpg"></p>
 
+<b>RingNet: 3D Face Reconstruction from Single Images (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/509/paper_camera_ready.pdf)[[Code]](https://github.com/soubhiksanyal/RingNet)
+<p align="center"> <img width="50%" src="https://github.com/soubhiksanyal/RingNet/blob/master/gif/celeba_reconstruction.gif"></p>
+
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
 
