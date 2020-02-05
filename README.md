@@ -106,6 +106,10 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <br>This work introduce a dataset for geometric deep learning consisting of over 1 million individual (and high quality) geometric models, each associated with accurate ground truth information on the decomposition into patches, explicit sharp feature annotations, and analytic differential properties.<br>
 <p align="center"><img width="50%" src="https://cs.nyu.edu/~zhongshi/img/abc-dataset.png" /></p>
 
+<b>VOCASET: Speech-4D Head Scan Dataset (2019(</b> [[Link]](https://voca.is.tue.mpg.de/)[[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)
+<br>[VOCASET](https://voca.is.tue.mpg.de/), is a 4D face dataset with about 29 minutes of 4D scans captured at 60 fps and synchronized audio. The dataset has 12 subjects and 480 sequences of about 3-4 seconds each with sentences chosen from an array of standard protocols that maximize  phonetic  diversity. 
+<p align="center"><img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/vocaset.gif" /></p>
+
 <a name="3d_scenes" />
 
 ### 3D Scenes
@@ -431,8 +435,16 @@ _Parametric Morphable Model-based methods_
 <b>A Morphable Model For The Synthesis Of 3D Faces (1999)</b> [[Paper]](http://gravis.dmi.unibas.ch/publications/Sigg99/morphmod2.pdf)[[Code]](https://github.com/MichaelMure/3DMM)
 <p align="center"><img width="40%" src="http://mblogthumb3.phinf.naver.net/MjAxNzAzMTdfMjcz/MDAxNDg5NzE3MzU0ODI3.9lQioLxwoGmtoIVXX9sbVOzhezoqgKMKiTovBnbUFN0g.sXN5tG4Kohgk7OJEtPnux-mv7OAoXVxxCyo3SGZMc6Yg.PNG.atelierjpro/031717_0222_DataDrivenS4.png?type=w420" /></p>
 
+<b>FLAME: Faces Learned with an Articulated Model and Expressions (2017)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)[[Code (Chumpy)]](https://github.com/Rubikplayer/flame-fitting)[[Code (TF)]](https://github.com/TimoBolkart/TF_FLAME)
+<br>[FLAME](http://flame.is.tue.mpg.de/) is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. The model combines a linear identity shape space (trained from 3800 scans of human heads) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes.
+The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fit the model to 3D landmarks or registered 3D meshes, or 3) generate 3D face templates for [speech-driven facial animation](https://github.com/TimoBolkart/voca).
+<p align="center"> <img width="50%" src="https://github.com/TimoBolkart/TF_FLAME/blob/master/gifs/model_variations.gif"></p>
+
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
+
+<b>SMPL-X: Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)[[Video]](https://youtu.be/XyXIEmapWkw)[[Code]](https://github.com/vchoutas/smplify-x)
+<p align="center"> <img width="50%" src="https://github.com/vchoutas/smplify-x/blob/master/images/teaser_fig.png"></p>
 
 <b>Category-Specific Object Reconstruction from a Single Image (2014)</b> [[Paper]](https://people.eecs.berkeley.edu/~akar/categoryshapes.pdf)
 <p align="center"><img width="50%" src="http://people.eecs.berkeley.edu/~akar/categoryShapes/images/teaser.png" /></p>
@@ -731,6 +743,17 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 
 :game_die: <b>CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition (ICCV 2019)</b> [[Paper]](https://arxiv.org/abs/1811.07441)[[Code]](https://github.com/nschor/CompoNet)
 <p align="center"><img width="50%" src="https://raw.githubusercontent.com/nschor/CompoNet/master/images/network_architecture.png" /></p>
+
+<b>CoMA: Convolutional Mesh Autoencoders (2018)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/439/1285.pdf)[[Code (TF)]](https://github.com/anuragranj/coma)[[Code (PyTorch)]](https://github.com/pixelite1201/pytorch_coma/)[[Code (PyTorch)]](https://github.com/sw-gong/coma)
+<br>[CoMA](https://coma.is.tue.mpg.de/) is a versatile model that learns a non-linear representation of a face using spectral convolutions on a mesh surface. CoMA introduces mesh sampling operations that enable a hierarchical mesh representation that captures non-linear variations in shape and expression at multiple scales within the model. 
+<p align="center"> <img width="50%" src="https://coma.is.tue.mpg.de/uploads/ckeditor/pictures/91/content_coma_faces.jpg"></p>
+
+<b>RingNet: 3D Face Reconstruction from Single Images (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/509/paper_camera_ready.pdf)[[Code]](https://github.com/soubhiksanyal/RingNet)
+<p align="center"> <img width="50%" src="https://github.com/soubhiksanyal/RingNet/blob/master/gif/celeba_reconstruction.gif"></p>
+
+<b>VOCA: Voice Operated Character Animation (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)[[Video]](https://youtu.be/XceCxf_GyW4)[[Code]](https://github.com/TimoBolkart/voca)
+<br>[VOCA](https://voca.is.tue.mpg.de/) is a simple and generic speech-driven facial animation framework that works across a range of identities. The codebase demonstrates how to synthesize realistic character animations given an arbitrary speech signal and a static character mesh.
+<p align="center"> <img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/speech_driven_animation.gif"></p>
 
 <a name="material_synthesis" />
 
