@@ -436,6 +436,10 @@ _Parametric Morphable Model-based methods_
 The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fit the model to 3D landmarks or registered 3D meshes, or 3) generate 3D face templates for [speech-driven facial animation](https://github.com/TimoBolkart/voca).
 <p align="center"> <img width="50%" src="https://github.com/TimoBolkart/TF_FLAME/blob/master/gifs/model_variations.gif"></p>
 
+<b>CoMA: Convolutional Mesh Autoencoders (2018)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/439/1285.pdf)[[Code (TF)]](https://github.com/anuragranj/coma)[[Code (PyTorch)]](https://github.com/pixelite1201/pytorch_coma/)[[Code (PyTorch)]](https://github.com/sw-gong/coma)
+<br>[CoMA](https://coma.is.tue.mpg.de/) is a versatile model that learns a non-linear representation of a face using spectral convolutions on a mesh surface. CoMA introduces mesh sampling operations that enable a hierarchical mesh representation that captures non-linear variations in shape and expression at multiple scales within the model. 
+<p align="center"> <img width="50%" src="https://coma.is.tue.mpg.de/uploads/ckeditor/pictures/91/content_coma_faces.jpg"></p>
+
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
 
