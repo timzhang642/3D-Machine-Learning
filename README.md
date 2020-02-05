@@ -450,6 +450,9 @@ The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fi
 <b>The Space of Human Body Shapes: Reconstruction and Parameterization from Range Scans (2003)</b> [[Paper]](http://grail.cs.washington.edu/projects/digital-human/pub/allen03space-submit.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/46d39b0e21ae956e4bcb7a789f92be480d45ee12/7-Figure10-1.png" /></p>
 
+<b>SMPL-X: Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)[[Video]](https://youtu.be/XyXIEmapWkw)[[Code]](https://github.com/vchoutas/smplify-x)
+<p align="center"> <img width="50%" src="https://github.com/vchoutas/smplify-x/blob/master/images/teaser_fig.png"></p>
+
 <b>Category-Specific Object Reconstruction from a Single Image (2014)</b> [[Paper]](https://people.eecs.berkeley.edu/~akar/categoryshapes.pdf)
 <p align="center"><img width="50%" src="http://people.eecs.berkeley.edu/~akar/categoryShapes/images/teaser.png" /></p>
 
