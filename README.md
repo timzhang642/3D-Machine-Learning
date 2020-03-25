@@ -755,6 +755,15 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 <br>[VOCA](https://voca.is.tue.mpg.de/) is a simple and generic speech-driven facial animation framework that works across a range of identities. The codebase demonstrates how to synthesize realistic character animations given an arbitrary speech signal and a static character mesh.
 <p align="center"> <img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/speech_driven_animation.gif"></p>
 
+:gem: <b>Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</b> [[Paper]](https://arxiv.org/abs/1908.01210)[[Site]](https://nv-tlabs.github.io/DIB-R/)[[Code]](https://github.com/nv-tlabs/DIB-R)
+<p align="center"> <img width="50%" src="https://nv-tlabs.github.io/DIB-R/figures/model2a-2.png"> </p>
+
+:gem: <b>Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning</b> [[Paper]](https://arxiv.org/abs/1904.01786)[[Code]](https://github.com/ShichenLiu/SoftRas)
+<p align="center"> <img width="50%" src="https://raw.githubusercontent.com/ShichenLiu/SoftRas/master/data/media/teaser/teaser.png"> </p>
+
+<b>NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis</b> [[Project]](http://www.matthewtancik.com/nerf)[[Paper]](https://arxiv.org/abs/2003.08934)[[Code]](https://github.com/bmild/nerf)
+<p align="center"> <img width="50%" src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png"> </p>
+
 <a name="material_synthesis" />
 
 ## Texture/Material Analysis and Synthesis
