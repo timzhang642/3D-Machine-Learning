@@ -8,6 +8,8 @@ I'll use the following icons to differentiate 3D representations:
 * :gem: Polygonal Mesh
 * :pill: Primitive-based
 
+To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which provides a neat way to visualize the academic field in a graph representation. 
+
 ## Get Involved
 To contribute to this Repo, you may add content through pull requests or open an issue to let me know. 
 
