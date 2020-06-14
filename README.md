@@ -322,6 +322,9 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 :gem: <b>MeshCNN (SIGGRAPH 2019)</b> [[Paper]](https://bit.ly/meshcnn)[[Code]](https://github.com/ranahanocka/MeshCNN)
 <p align="center"><img width="50%" src="https://github.com/ranahanocka/MeshCNN/blob/master/docs/imgs/alien.gif?raw=true" /></p>
 
+:game_die: <b>SampleNet: Differentiable Point Cloud Sampling (CVPR 2020)</b> [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf) [[Code]](https://github.com/itailang/SampleNet)
+<p align="center"><img width="50%" src="https://github.com/itailang/SampleNet/blob/master/doc/teaser.png" /></p>
+
 <a name="multiple_detection" />
 
 
