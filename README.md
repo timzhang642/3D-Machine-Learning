@@ -994,6 +994,9 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <b>:space_invader: End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/abs/1906.04201)
 <p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z2end2end/teaser.jpg" /></p>
 
+<b>:space_invader: feature-metric registration: a fast semi-supervised approach for robust point cloud registration without correspondences (CVPR 202020)</b> [[Paper]](https://arxiv.org/abs/2005.01014)[[Code]](https://github.com/XiaoshuiHuang/fmr)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z2end2end/teaser.jpg" /></p>
+
 <a name="scene_understanding" />
 
 ## Scene Understanding
