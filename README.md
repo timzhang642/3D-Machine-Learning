@@ -1004,6 +1004,9 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <a name="scene_understanding" />
 
 ## Scene Understanding
+
+<b>A more detailed repository for scene understanding resources</b> [[Link]](https://github.com/bertjiazheng/awesome-scene-understanding)
+
 <b>Recovering the Spatial Layout of Cluttered Rooms (2009)</b> [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
 <p align="center"><img width="60%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Recovering%20the%20Spatial%20Layout%20of%20Cluttered%20Rooms.png" /></p>
 
