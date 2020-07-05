@@ -1003,9 +1003,7 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <a name="scene_understanding" />
 
-## Scene Understanding
-
-<b>A more detailed repository for scene understanding resources</b> [[Link]](https://github.com/bertjiazheng/awesome-scene-understanding)
+## Scene Understanding (Another more detailed [[repository]](https://github.com/bertjiazheng/awesome-scene-understanding))
 
 <b>Recovering the Spatial Layout of Cluttered Rooms (2009)</b> [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
 <p align="center"><img width="60%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Recovering%20the%20Spatial%20Layout%20of%20Cluttered%20Rooms.png" /></p>
@@ -1078,3 +1076,7 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <b>3D-Aware Scene Manipulation via Inverse Graphics (NeurIPS 2018)</b> [[Paper]](http://3dsdn.csail.mit.edu/) [[Code]](https://github.com/svip-lab/PlanarReconstruction) <p align="center"><img width="50%" src="http://3dsdn.csail.mit.edu/images/teaser.png" /></p>
 
 :gem: <b>3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers (ICCV 2019)</b> [[Paper]](https://research.dshin.org/iccv19/multi-layer-depth/) <p align="center"><img width="50%" src="https://research.dshin.org/iccv19/multi-layer-depth/figures/overview_1.png" /><br><img width="50%" src="https://research.dshin.org/iccv19/multi-layer-depth/figures/voxelization00.jpg" /></p>
+
+<b>PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points (NIPS 2019)</b> [[Paper]](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points.pdf) <p align="center"><img width="50%" src="https://storage.googleapis.com/groundai-web-prod/media/users/user_288036/project_402358/images/x1.png" /></p>
+
+<b>Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense (ICCV 2019)</b> [[Paper & Code]](https://github.com/yixchen/holistic_scene_human) <p align="center"><img width="50%" src="https://yixchen.github.io/holisticpp/file/pg.png" /></p>
