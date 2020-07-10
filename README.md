@@ -185,6 +185,10 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling</b> [[Link]](https://structured3d-dataset.org/)
 <p align="center"><img width="50%" src="https://structured3d-dataset.org/static/img/teaser.png" /></p>
 
+<b>3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics</b> [[Link]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)
+<br>Contains 10,000 houses (or apartments) and ~70,000 rooms with layout information. 
+<p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB131XOJeL2gK0jSZPhXXahvXXa-2992-2751.jpg" /></p>
+
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
