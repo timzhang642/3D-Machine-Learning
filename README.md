@@ -190,7 +190,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB131XOJeL2gK0jSZPhXXahvXXa-2992-2751.jpg" /></p>
 
 <b>3ThreeDWorld(TDW): A High-Fidelity, Multi-Modal Platform for Interactive Physical Simulation</b> [[Link]](http://www.threedworld.org/)
-<p align="center"><img width="50%" src="http://www.threedworld.org/img/image_comp_V2.gif" /></p>
+<p align="center"><img width="50%" src="http://www.threedworld.org/img/gallery/gallery-1.jpg" /></p>
 
 <a name="pose_estimation" />
 
