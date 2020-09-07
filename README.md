@@ -670,6 +670,9 @@ _Deep Learning Methods_
 :camera: <b>SurfNet: Generating 3D shape surfaces using deep residual networks (2017)</b> [[Paper]](https://arxiv.org/pdf/1703.04079.pdf)
 <p align="center"><img width="50%" src="https://3dadept.com/wp-content/uploads/2017/07/Screenshot-from-2017-07-26-145521-e1501077539723.png" /></p>
 
+:camera: <b>Learning to Reconstruct Symmetric Shapes using Planar Parameterization of 3D Surface (2019)</b> [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Jain_Learning_to_Reconstruct_Symmetric_Shapes_using_Planar_Parameterization_of_3D_ICCVW_2019_paper.pdf) [[Code]](https://github.com/hrdkjain/LearningSymmetricShapes)
+<p align="center"><img width="50%" src="https://github.com/hrdkjain/LearningSymmetricShapes/blob/master/Images/teaser.png" /></p>
+
 :pill: <b>GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH 2017)</b> [[Paper]](http://kevinkaixu.net/projects/grass.html) [[Code]](https://github.com/junli-lj/grass) [[code]](https://github.com/kevin-kaixu/grass_pytorch)
 <p align="center"><img width="50%" src="http://kevinkaixu.net/projects/grass/teaser.jpg" /></p>
 
