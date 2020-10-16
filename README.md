@@ -122,6 +122,12 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <br>[VOCASET](https://voca.is.tue.mpg.de/), contains 20,000+ clean and realistic synthetic scenes in 5,000+ diverse rooms, which include 10,000+ unique high quality 3D instances of furniture with high resolution informative textures developed by professional designers. 
 <p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB1HTSfz4v1gK0jSZFFXXb0sXXa-1999-1037.png" /></p>
 
+
+<b>Fusion 360 Gallery Dataset (2020)</b> [[Link]](https://github.com/AutodeskAILab/Fusion360GalleryDataset)[[Paper]](https://arxiv.org/abs/2010.02392)
+<br>The [Fusion 360 Gallery Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset) contains rich 2D and 3D geometry data derived from parametric CAD models. The Reconstruction Dataset provides sequential construction sequence information from a subset of simple 'sketch and extrude' designs. The Segmentation Dataset provides a segmentation of 3D models based on the CAD modeling operation, including B-Rep format, mesh, and point cloud.
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/AutodeskAILab/Fusion360GalleryDataset/master/docs/images/reconstruction_teaser.jpg" />
+<img width="50%" src="https://raw.githubusercontent.com/AutodeskAILab/Fusion360GalleryDataset/master/docs/images/segmentation_example.jpg" /></p>
+
 <a name="3d_scenes" />
 
 ### 3D Scenes
