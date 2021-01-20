@@ -826,6 +826,9 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 <b>NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis</b> [[Project]](http://www.matthewtancik.com/nerf)[[Paper]](https://arxiv.org/abs/2003.08934)[[Code]](https://github.com/bmild/nerf)
 <p align="center"> <img width="50%" src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png"> </p>
 
+:gem::game_die: <b>GAMesh: Guided and Augmented Meshing for Deep Point Networks (3DV 2020)</b> [[Project]](https://www.ics.uci.edu/~agarwal/GAMesh/) [[Paper]](https://arxiv.org/abs/2010.09774) [[Code]](https://github.com/nitinagarwal/GAMesh)
+<p align="center"><img width="50%" src="https://www.ics.uci.edu/~agarwal/3DV_2020.png" /></p>
+
 <a name="material_synthesis" />
 
 ## Texture/Material Analysis and Synthesis
