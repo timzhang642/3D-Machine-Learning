@@ -131,7 +131,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>Combinatorial 3D Shape Dataset (2020)</b> [[Link]](https://github.com/POSTECH-CVLab/Combinatorial-3D-Shape-Generation)[[Paper]](https://arxiv.org/abs/2004.07414)
 <br>[Combinatorial 3D Shape Dataset](https://github.com/POSTECH-CVLab/Combinatorial-3D-Shape-Generation) is composed of 406 instances of 14 classes. Each object in our dataset is considered equivalent to a sequence of primitive placement. Compared to other 3D object datasets, our proposed dataset contains an assembling sequence of unit primitives. It implies that we can quickly obtain a sequential generation process that is a human assembling mechanism. Furthermore, we can sample valid random sequences from a given combinatorial shape after validating the sampled sequences. To sum up, the characteristics of our combinatorial 3D shape dataset are (i) combinatorial, (ii) sequential, (iii) decomposable, and (iv) manipulable.
 <p align="center">
-<img width="50%" src="imgs/combinatorial_3d_shape_dataset.png" />
+<img width="65%" src="imgs/combinatorial_3d_shape_dataset.png" />
 </p>
 
 <a name="3d_scenes" />
