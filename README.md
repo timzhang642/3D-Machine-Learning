@@ -502,6 +502,11 @@ The code demonstrates how to 1) reconstruct textured 3D faces from images, 2) fi
 <b>SMPL-X: Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)[[Video]](https://youtu.be/XyXIEmapWkw)[[Code]](https://github.com/vchoutas/smplify-x)
 <p align="center"> <img width="50%" src="https://github.com/vchoutas/smplify-x/blob/master/images/teaser_fig.png"></p>
 
+<b>PIFuHD: Multi-Level Pixel Aligned Implicit Function for High-Resolution 3D Human Digitization (2020)</b> [[Paper]](https://arxiv.org/pdf/2004.00452.pdf)[[Video]](https://www.youtube.com/watch?v=uEDqCxvF5yc&feature=youtu.be)[[Code]](https://github.com/facebookresearch/pifuhd)
+<p align="center"> <img width="50%" src="https://github.com/vchoutas/smplify-x/blob/master/images/teaser_fig.png"></p>
+
+
+
 <b>ExPose: Monocular Expressive Body Regression through Body-Driven Attention (2020)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/620/0983.pdf)[[Video]](https://youtu.be/lNTmHLYTiB8)[[Code]](https://github.com/vchoutas/expose)
 <p align="center"> <img width="50%" src="https://github.com/vchoutas/expose/blob/master/images/expose.png"></p>
 
