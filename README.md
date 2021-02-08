@@ -958,6 +958,9 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <b>The Clutterpalette: An Interactive Tool for Detailing Indoor Scenes (2015)</b> [[Paper]](https://www.cs.umb.edu/~craigyu/papers/clutterpalette.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/The%20Clutterpalette-%20An%20Interactive%20Tool%20for%20Detailing%20Indoor%20Scenes.png" /></p>
 
+<b>Image2Scene: Transforming Style of 3D Room (2015)</b> [[Paper]](https://dl.acm.org/doi/abs/10.1145/2733373.2806274)
+<p align="center"><img width="60%" src="imgs/Image2Scene.jpg" /></p>
+
 <b>Relationship Templates for Creating Scene Variations (2016)</b> [[Paper]](http://geometry.cs.ucl.ac.uk/projects/2016/relationship-templates/)
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2016/relationship-templates/paper_docs/teaser.png" /></p>
 
@@ -1000,6 +1003,9 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf) 
 <p align="center"><img width="50%" src="http://msavva.github.io/files/deepsynth.png" /></p>
 
+:camera: <b>Fast and Flexible Indoor scene synthesis via Deep Convolutional Generative Models (2018)</b> [[Paper]](https://arxiv.org/pdf/1811.12463.pdf) [[Code]](https://github.com/brownvc/fast-synth)
+<p align="center"><img width="80%" src="imgs/Fast%20and%20Flexible%20Indoor%20scene%20synthesis%20via%20Deep%20Convolutional%20Generative%20Models.jpg" ></p>
+
 <b>Configurable 3D Scene Synthesis and 2D Image Rendering
 with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https://arxiv.org/pdf/1704.00112.pdf) 
 <p align="center"><img width="50%" src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11263-018-1103-5/MediaObjects/11263_2018_1103_Fig5_HTML.jpg" /></p>
@@ -1031,8 +1037,24 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <b>:space_invader: End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/abs/1906.04201)
 <p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z2end2end/teaser.jpg" /></p>
 
+<b>A Survey of 3D Indoor Scene Synthesis (2020) </b> [[Paper]](https://www.researchgate.net/profile/Shao_Kui_Zhang/publication/333135099_A_Survey_of_3D_Indoor_Scene_Synthesis/links/5ce13a5492851c4eabad4de0/A-Survey-of-3D-Indoor-Scene-Synthesis.pdf)
+<p align="center"><img width="60%" src="https://github.com/julyrashchenko/3D-Machine-Learning/blob/master/imgs/A%20Survey%20of%203D%20Indoor%20Scene%20Synthesis.jpg" /></p>
+
+<b>:pill: :camera: PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks (2019) </b> [[Paper]](https://kwang-ether.github.io/pdf/planit.pdf) [[Code]](https://github.com/brownvc/planit)
+<p align="center"><img src="imgs/PlanIT.jpg"></p>
+
 <b>:space_invader: Feature-metric Registration: A Fast Semi-Supervised Approach for Robust Point Cloud Registration without Correspondences (CVPR 2020)</b> [[Paper]](https://arxiv.org/abs/2005.01014)[[Code]](https://github.com/XiaoshuiHuang/fmr)
 <p align="center"><img width="50%" src="https://github.com/XiaoshuiHuang/xiaoshuihuang.github.io/blob/master/research/2020-feature-metric.png?raw=true" /></p>
+
+<b>:pill: Human-centric metrics for indoor scene assessment and synthesis (2020) </b> [[Paper]](sciencedirect.com/science/article/abs/pii/S1524070320300175)
+<p align="center"><img width="60%" src="imgs/Human-centric%20metrics%20for%20indoor%20scene%20assessment%20and%20synthesis.jpg" /></p>
+
+<b> SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans (2020) </b> [[Paper]](https://arxiv.org/pdf/2003.12622.pdf)
+<p align="center"><img width="60%" src="imgs/SceneCAD.jpg" /></p>
+
+
+
+
 
 <a name="scene_understanding" />
 
