@@ -14,7 +14,7 @@ To find related papers and their relationships, check out [Connected Papers](htt
 To contribute to this Repo, you may add content through pull requests or open an issue to let me know. 
 
 :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:<br>
-We have also created a Slack workplace for people around the globe to ask questions, share knowledge and facilitate collaborations. Together, I'm sure we can advance this field as a collaborative effort. Join the community with [this link](https://join.slack.com/t/3d-machine-learning/shared_invite/enQtMzUyMTgyNzgwOTgzLTFiYTM4YWFjMTcxY2Q3YjQwMTA3ZGE2OTYwNDRlMDA5NGFmNDU5Njg4ODJhN2YwNmZkMDM4ZTllZWQzNjRjNDc).
+We have also created a Slack workplace for people around the globe to ask questions, share knowledge and facilitate collaborations. Together, I'm sure we can advance this field as a collaborative effort. Join the community with [this link](https://join.slack.com/t/3d-machine-learning/shared_invite/zt-4hsgj8zb-G6OKrBcc17QBB9ppYETgCQ).
 <br>:star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:
 
 ## Table of Contents
