@@ -737,7 +737,7 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 
 An energy-based 3D shape descriptor network is a deep energy-based model for volumetric shape patterns. The maximum likelihood training of the model follows an “analysis by synthesis” scheme and can be interpreted as a mode seeking and mode shifting process. The model can synthesize 3D shape patterns by sampling from the probability distribution via MCMC such as Langevin dynamics. Experiments demonstrate that the proposed model can generate realistic 3D shape patterns and can be useful for 3D shape analysis.
 
-<img src="http://www.stat.ucla.edu/~jxie/3DEBM/files/3D_syn.png" alt="img" style="zoom: 67%;" />
+<p align="center"><img width="60%" src="http://www.stat.ucla.edu/~jxie/3DEBM/files/3D_syn.png" /></p> 
 
 :game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
 
@@ -860,15 +860,13 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 
 This paper proposes a deep 3D energy-based model to represent volumetric shapes. The maximum likelihood training of the model follows an “analysis by synthesis” scheme. Experiments demonstrate that the proposed model can generate high-quality 3D shape patterns and can be useful for a wide variety of 3D shape analysis.
 
-<img src="imgs/voxelnet.png" alt="img" style="zoom: 80%;" />
+<p align="center"><img width="60%" src="imgs/voxelnet.png" /></p>
 
 :game_die: <b>Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification (2021 CVPR) </b> [[Project]](http://www.stat.ucla.edu/~jxie/GPointNet/) [[Paper]](https://arxiv.org/pdf/2004.01301.pdf) [[Code](https://github.com/fei960922/GPointNet)]
 
 Generative PointNet is an energy-based model of unordered point clouds, where the energy function is parameterized by an input-permutation-invariant bottom-up neural network. The model can be trained by MCMC-based maximum likelihood learning, or a short-run MCMC toward the energy-based model as a flow-like generator for point cloud reconstruction and interpolation. The learned point cloud representation can be useful for point cloud classification. 
 
-<img src="imgs/gpointnet.png" alt="img" style="zoom: 67%;" />
-
-
+<p align="center"><img width="60%" src="imgs/gpointnet.png" /></p>
 
 
 
