@@ -267,6 +267,9 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects (2018)</b> [[Paper]](https://research.nvidia.com/publication/2018-09_Deep-Object-Pose)
 <p align="center"><img width="50%" src="https://research.nvidia.com/sites/default/files/publications/forwebsite1_0.png" /></p>
 
+<b>MocapNET2: a real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format (2021)</b> [[Paper]](http://users.ics.forth.gr/~argyros/mypapers/2021_01_ICPR_Qammaz.pdf), [[Code]](https://github.com/FORTH-ModelBasedTracker/MocapNET)
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/FORTH-ModelBasedTracker/MocapNET/master/doc/mnet2.png" /></p>
+
 <a name="single_classification" />
 
 ## Single Object Classification
