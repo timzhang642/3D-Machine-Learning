@@ -228,6 +228,12 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>Robust camera pose estimation by viewpoint classification using deep learning (2016)</b> [[Paper]](https://link.springer.com/article/10.1007/s41095-016-0067-z)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Robust%20camera%20pose%20estimation%20by%20viewpoint%20classification%20using%20deep%20learning.jpeg" /></p>
 
+<b>Image-based localization using lstms for structured feature correlation (2017 ICCV)</b> [[Paper]](https://arxiv.org/pdf/1611.07890.pdf)
+<p align="center"><img width="50%" src="./imgs/Image-based localization using LSTMs for structured feature correlation.png" /></p>
+
+<b>Image-Based Localization Using Hourglass Networks (2017 ICCV Workshops)</b> [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Melekhov_Image-Based_Localization_Using_ICCV_2017_paper.pdf)
+<p align="center"><img width="50%" src="./imgs/Image-Based Localization Using Hourglass Networks.png" /></p>
+
 <b>Geometric loss functions for camera pose regression with deep learning (2017 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1704.00390.pdf)
 <p align="center"><img width="50%" src="http://mi.eng.cam.ac.uk/~cipolla/images/pose-net.png" /></p>
 
