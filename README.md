@@ -977,6 +977,9 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <b>Automatic Unpaired Shape Deformation Transfer (SIGGRAPH Asia 2018)</b> [[Paper]](http://geometrylearning.com/ausdt/)
 <p align="center"><img width="50%" src="http://geometrylearning.com/ausdt/imgs/teaser.png" /></p>
 
+<b>3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer (2020)</b> [[Paper]](https://arxiv.org/abs/2011.13388) [[Code]](https://github.com/ethz-asl/3dsnet)
+<p align="center"><img width="50%" src="https://github.com/ethz-asl/3dsnet/blob/main/docs/chairs.jpg" /></p>
+
 <a name="scene_synthesis" />
 
 ## Scene Synthesis/Reconstruction
