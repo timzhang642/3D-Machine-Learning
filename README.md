@@ -207,6 +207,9 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>3ThreeDWorld(TDW): A High-Fidelity, Multi-Modal Platform for Interactive Physical Simulation</b> [[Link]](http://www.threedworld.org/)
 <p align="center"><img width="50%" src="http://www.threedworld.org/img/gallery/gallery-1.jpg" /></p>
 
+<b>MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis</b> [[Link]](https://coohom.github.io/MINERVAS/)
+<p align="center"><img width="50%" src="https://coohom.github.io/MINERVAS/static/img/teaser.png" /></p>
+
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
