@@ -130,6 +130,11 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="https://raw.githubusercontent.com/AutodeskAILab/Fusion360GalleryDataset/master/docs/images/reconstruction_teaser.jpg" />
 <img width="50%" src="https://raw.githubusercontent.com/AutodeskAILab/Fusion360GalleryDataset/master/docs/images/segmentation_example.jpg" /></p>
 
+<b>Mechanical Components Benchmark (2020)</b>[[Link]](https://mechanical-components.herokuapp.com)[[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630171.pdf)
+<br>[MCB](https://mechanical-components.herokuapp.com) is a large-scale dataset of 3D objects of mechanical components. It has a total number of 58,696 mechanical components with 68 classes.
+<p align="center"><img width="50%" src="https://mechanical-components.herokuapp.com/static/img/main_figure.png" />
+</p>
+
 <b>Combinatorial 3D Shape Dataset (2020)</b> [[Link]](https://github.com/POSTECH-CVLab/Combinatorial-3D-Shape-Generation)[[Paper]](https://arxiv.org/abs/2004.07414)
 <br>[Combinatorial 3D Shape Dataset](https://github.com/POSTECH-CVLab/Combinatorial-3D-Shape-Generation) is composed of 406 instances of 14 classes. Each object in our dataset is considered equivalent to a sequence of primitive placement. Compared to other 3D object datasets, our proposed dataset contains an assembling sequence of unit primitives. It implies that we can quickly obtain a sequential generation process that is a human assembling mechanism. Furthermore, we can sample valid random sequences from a given combinatorial shape after validating the sampled sequences. To sum up, the characteristics of our combinatorial 3D shape dataset are (i) combinatorial, (ii) sequential, (iii) decomposable, and (iv) manipulable.
 <p align="center">
