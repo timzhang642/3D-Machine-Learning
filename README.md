@@ -310,6 +310,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :gem: <b>MeshCNN (SIGGRAPH 2019)</b> [[Paper]](https://bit.ly/meshcnn)[[Code]](https://github.com/ranahanocka/MeshCNN)
 <p align="center"><img width="50%" src="https://github.com/ranahanocka/MeshCNN/blob/master/docs/imgs/alien.gif?raw=true" /></p>
 
+:gem: <b>Mesh R-CNN (ICCV 2019)</b> [[Paper]](https://arxiv.org/pdf/1906.02739)[[Code]](https://github.com/facebookresearch/meshrcnn)
+<p align="center"><img width="50%" src="https://camo.githubusercontent.com/35f3e16e7fc989f67a2e730ab4c6806aa73f3382275d473f33a529a868af7975/68747470733a2f2f676b696f786172692e6769746875622e696f2f746561736572732f6d65736872636e6e5f626c6f675f766964656f2e676966" /></p>
+
 <a name="multiple_detection" />
 
 
