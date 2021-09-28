@@ -60,7 +60,7 @@ We have also created a Slack workplace for people around the globe to ask questi
 <a name="datasets" />
 
 ## Datasets
-To see a survey of RGBD datasets, check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
+To see a survey of RGBD datasets, check out Michael Firman's [collection](http://www.michaelfirman.co.uk/RGBDdatasets/index.html) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](https://pointclouds.org/). 
 
 <a name="3d_models" />
 
