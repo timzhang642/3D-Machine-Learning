@@ -859,6 +859,9 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 <br>[VOCA](https://voca.is.tue.mpg.de/) is a simple and generic speech-driven facial animation framework that works across a range of identities. The codebase demonstrates how to synthesize realistic character animations given an arbitrary speech signal and a static character mesh.
 <p align="center"> <img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/speech_driven_animation.gif"></p>
 
+:camera: <b>DSM BUILDING SHAPE REFINEMENT FROM COMBINED REMOTE SENSING IMAGES BASED ON WNET-CGANS (2019)</b> [[Paper]](https://arxiv.org/pdf/1903.03519.pdf)
+<p align="center"><img width="50%" src="https://github.com/0xzayd/Wnet-cGAN-Building-Footprints/blob/master/img/Wnet_cgan.png" /></p>
+
 :gem: <b>Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</b> [[Paper]](https://arxiv.org/abs/1908.01210)[[Site]](https://nv-tlabs.github.io/DIB-R/)[[Code]](https://github.com/nv-tlabs/DIB-R)
 <p align="center"> <img width="50%" src="https://nv-tlabs.github.io/DIB-R/figures/model2a-2.png"> </p>
 
