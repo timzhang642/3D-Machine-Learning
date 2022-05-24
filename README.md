@@ -121,7 +121,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/vocaset.gif" /></p>
 
 <b>3D-FUTURE: 3D FUrniture shape with TextURE (2020)</b> [[Link]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future?spm=5176.14208320.0.0.66293cf7asRnrR)
-<br>[3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future), contains 20,000+ clean and realistic synthetic scenes in 5,000+ diverse rooms, which include 10,000+ unique high quality 3D instances of furniture with high resolution informative textures developed by professional designers. 
+<br>[3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) contains 20,000+ clean and realistic synthetic scenes in 5,000+ diverse rooms, which include 10,000+ unique high quality 3D instances of furniture with high resolution informative textures developed by professional designers. 
 <p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB1HTSfz4v1gK0jSZFFXXb0sXXa-1999-1037.png" /></p>
 
 
