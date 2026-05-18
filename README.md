@@ -215,6 +215,10 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis</b> [[Link]](https://coohom.github.io/MINERVAS/)
 <p align="center"><img width="50%" src="https://coohom.github.io/MINERVAS/static/img/teaser.png" /></p>
 
+<b>Rohbau3D</b> [[Link]](https://github.com/RauchLukas/Rohbau3D)
+<br>Rohbau3D-Semantics is a terrestrial laser scanning dataset of shell construction scenes comprising 504 annotated scans from 14 different sites. It provides point-wise semantic and instance annotations, together with RGB color, LiDAR reflection intensity, and reconstructed surface normals for the 3D point clouds, as well as linked equidistant panoramic and cube-map renderings derived from the scans. The dataset is intended for 3D segmentation, instance understanding, and multimodal learning in complex built environments.
+<p align="center"><img width="50%" src="https://github.com/RauchLukas/Rohbau3D/blob/main/img/rohbau3d_cover.png" /></p>
+
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
