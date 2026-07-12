@@ -1,6 +1,6 @@
 3D Machine Learning
 
-In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers. 
+In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers.
 
 I'll use the following icons to differentiate 3D representations:
 * :camera: Multi-view Images
@@ -9,10 +9,10 @@ I'll use the following icons to differentiate 3D representations:
 * :gem: Polygonal Mesh
 * :pill: Primitive-based
 
-To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which provides a neat way to visualize the academic field in a graph representation. 
+To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which provides a neat way to visualize the academic field in a graph representation.
 
 ## Get Involved
-To contribute to this Repo, you may add content through pull requests or open an issue to let me know. 
+To contribute to this Repo, you may add content through pull requests or open an issue to let me know.
 
 :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:  :star:<br>
 We have also created a Slack workplace for people around the globe to ask questions, share knowledge and facilitate collaborations. Together, I'm sure we can advance this field as a collaborative effort. Join the community with [this link](https://join.slack.com/t/3d-machine-learning/shared_invite/zt-4hsgj8zb-G6OKrBcc17QBB9ppYETgCQ).
@@ -60,7 +60,7 @@ We have also created a Slack workplace for people around the globe to ask questi
 <a name="datasets" />
 
 ## Datasets
-To see a survey of RGBD datasets, check out Michael Firman's [collection](http://www.michaelfirman.co.uk/RGBDdatasets/index.html) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](https://pointclouds.org/). 
+To see a survey of RGBD datasets, check out Michael Firman's [collection](http://www.michaelfirman.co.uk/RGBDdatasets/index.html) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](https://pointclouds.org/).
 
 <a name="3d_models" />
 
@@ -98,7 +98,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <p align="center"><img width="50%" src="http://redwood-data.org/3dscan/img/teaser.jpg" /></p>
 
 <b>ObjectNet3D: A Large Scale Database for 3D Object Recognition (2016)</b> [[Link]](http://cvgl.stanford.edu/projects/objectnet3d/)
-<br>100 categories, 90,127 images, 201,888 objects in these images and 44,147 3D shapes. 
+<br>100 categories, 90,127 images, 201,888 objects in these images and 44,147 3D shapes.
 <br>Tasks: region proposal generation, 2D object detection, joint 2D detection and 3D object pose estimation, and image-based 3D shape retrieval
 <p align="center"><img width="50%" src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" /></p>
 
@@ -117,11 +117,11 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="https://hkust-vgd.github.io/scanobjectnn/images/objects_teaser.png" /></p>
 
 <b>VOCASET: Speech-4D Head Scan Dataset (2019(</b> [[Link]](https://voca.is.tue.mpg.de/)[[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)
-<br>[VOCASET](https://voca.is.tue.mpg.de/), is a 4D face dataset with about 29 minutes of 4D scans captured at 60 fps and synchronized audio. The dataset has 12 subjects and 480 sequences of about 3-4 seconds each with sentences chosen from an array of standard protocols that maximize  phonetic  diversity. 
+<br>[VOCASET](https://voca.is.tue.mpg.de/), is a 4D face dataset with about 29 minutes of 4D scans captured at 60 fps and synchronized audio. The dataset has 12 subjects and 480 sequences of about 3-4 seconds each with sentences chosen from an array of standard protocols that maximize  phonetic  diversity.
 <p align="center"><img width="50%" src="https://github.com/TimoBolkart/voca/blob/master/gif/vocaset.gif" /></p>
 
 <b>3D-FUTURE: 3D FUrniture shape with TextURE (2020)</b> [[Link]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future?spm=5176.14208320.0.0.66293cf7asRnrR)
-<br>[3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) contains 20,000+ clean and realistic synthetic scenes in 5,000+ diverse rooms, which include 10,000+ unique high quality 3D instances of furniture with high resolution informative textures developed by professional designers. 
+<br>[3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) contains 20,000+ clean and realistic synthetic scenes in 5,000+ diverse rooms, which include 10,000+ unique high quality 3D instances of furniture with high resolution informative textures developed by professional designers.
 <p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB1HTSfz4v1gK0jSZFFXXb0sXXa-1999-1037.png" /></p>
 
 
@@ -162,7 +162,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="http://www.scan-net.org/img/annotations.png" /></p>
 
 <b>Matterport3D: Learning from RGB-D Data in Indoor Environments (2017)</b> [[Link]](https://niessner.github.io/Matterport/)
-<br>10,800 panoramic views (in both RGB and depth) from 194,400 RGB-D images of 90 building-scale scenes of private rooms. Instance-level semantic segmentations are provided for region (living room, kitchen) and object (sofa, TV) categories. 
+<br>10,800 panoramic views (in both RGB and depth) from 194,400 RGB-D images of 90 building-scale scenes of private rooms. Instance-level semantic segmentations are provided for region (living room, kitchen) and object (sofa, TV) categories.
 <p align="center"><img width="50%" src="https://niessner.github.io/Matterport/teaser.png" /></p>
 
 <b>SUNCG: A Large 3D Model Repository for Indoor Scenes (2017)</b> [[Link]](http://suncg.cs.princeton.edu/)
@@ -206,7 +206,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <p align="center"><img width="50%" src="https://structured3d-dataset.org/static/img/teaser.png" /></p>
 
 <b>3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics</b> [[Link]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)
-<br>Contains 10,000 houses (or apartments) and ~70,000 rooms with layout information. 
+<br>Contains 10,000 houses (or apartments) and ~70,000 rooms with layout information.
 <p align="center"><img width="50%" src="https://img.alicdn.com/tfs/TB131XOJeL2gK0jSZPhXXahvXXa-2992-2751.jpg" /></p>
 
 <b>3ThreeDWorld(TDW): A High-Fidelity, Multi-Modal Platform for Interactive Physical Simulation</b> [[Link]](http://www.threedworld.org/)
@@ -381,7 +381,7 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <b>Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images (2016)</b> [[Paper]](http://dss.cs.princeton.edu/) [[Code]](https://github.com/shurans/DeepSlidingShape)
 <p align="center"><img width="50%" src="http://3dvision.princeton.edu/slide/DSS.jpg" /></p>
 
-<b>Three-Dimensional Object Detection and Layout Prediction using Clouds of Oriented Gradients (2016)</b> [[CVPR '16 Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.pdf) [[CVPR '18 Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_3D_Object_Detection_CVPR_2018_paper.pdf) [[T-PAMI '19 Paper]](https://arxiv.org/pdf/1906.04725) 
+<b>Three-Dimensional Object Detection and Layout Prediction using Clouds of Oriented Gradients (2016)</b> [[CVPR '16 Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.pdf) [[CVPR '18 Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_3D_Object_Detection_CVPR_2018_paper.pdf) [[T-PAMI '19 Paper]](https://arxiv.org/pdf/1906.04725)
 
 <p align="center"><img width="50%" src="https://github.com/luvegood/3D-Machine-Learning/blob/master/imgs/Three-Dimensional%20Object%20Detection%20and%20Layout%20Prediction%20using%20Clouds%20of%20Oriented%20Gradients.png" /></p>
 
@@ -466,7 +466,7 @@ We propose pointwise convolution that performs on-the-fly voxelization for learn
 :camera::space_invader: <b>3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation (2018)</b> [[Paper]](https://arxiv.org/pdf/1803.10409.pdf)
 <p align="center"><img width="50%" src="https://github.com/angeladai/3DMV/blob/master/images/teaser.jpg" /></p>
 
-:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
+:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf)
 <p align="center"><img width="50%" src="https://github.com/angeladai/ScanComplete/blob/master/images/teaser_mesh.jpg" /></p>
 
 :game_die::camera: <b>SPLATNet: Sparse Lattice Networks for Point Cloud Processing (2018)</b> [[Paper]](https://arxiv.org/pdf/1802.08275.pdf)
@@ -498,12 +498,12 @@ We jointly address the problems of semantic and instance segmentation of 3D poin
 
 :game_die: <b>ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics (ICCV 2019)</b> [[Link]](https://hkust-vgd.github.io/shellnet/)
 <br>
-We propose an efficient end-to-end permutation invariant convolution for point cloud deep learning. We use statistics from concentric spherical shells to define representative features and resolve the point order ambiguity, allowing traditional convolution to perform efficiently on such features. 
+We propose an efficient end-to-end permutation invariant convolution for point cloud deep learning. We use statistics from concentric spherical shells to define representative features and resolve the point order ambiguity, allowing traditional convolution to perform efficiently on such features.
 <p align="center"><img width="50%" src="https://hkust-vgd.github.io/shellnet/images/shellconv_new.png" /></p>
 
 :game_die: <b>Rotation Invariant Convolutions for 3D Point Clouds Deep Learning (3DV 2019)</b> [[Link]](https://hkust-vgd.github.io/riconv/)
 <br>
-We introduce a novel convolution operator for point clouds that achieves rotation invariance. Our core idea is to use low-level rotation invariant geometric features such as distances and angles to design a convolution operator for point cloud learning. 
+We introduce a novel convolution operator for point clouds that achieves rotation invariance. Our core idea is to use low-level rotation invariant geometric features such as distances and angles to design a convolution operator for point cloud learning.
 <p align="center"><img width="50%" src="https://hkust-vgd.github.io/riconv/images/RIO_cam.png" /></p>
 
 
@@ -738,7 +738,7 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 :camera::space_invader: <b>MarrNet: 3D Shape Reconstruction via 2.5D Sketches (2017)</b> [[Paper]](http://marrnet.csail.mit.edu/)
 <p align="center"><img width="50%" src="http://marrnet.csail.mit.edu/images/model.jpg" /></p>
 
-:camera::space_invader::game_die: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/) 
+:camera::space_invader::game_die: <b>Learning a Multi-View Stereo Machine (2017 NIPS)</b> [[Paper]](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/)
 <p align="center"><img width="50%" src="http://bair.berkeley.edu/static/blog/unified-3d/Network.png" /></p>
 
 :space_invader: <b>3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions (2017)</b> [[Paper]](http://3dmatch.cs.princeton.edu/)
@@ -754,11 +754,11 @@ Dense 3D Reconstructions from a Single Image (2017)</b> [[Paper]](http://ci2cv.n
 
 An energy-based 3D shape descriptor network is a deep energy-based model for volumetric shape patterns. The maximum likelihood training of the model follows an “analysis by synthesis” scheme and can be interpreted as a mode seeking and mode shifting process. The model can synthesize 3D shape patterns by sampling from the probability distribution via MCMC such as Langevin dynamics. Experiments demonstrate that the proposed model can generate realistic 3D shape patterns and can be useful for 3D shape analysis.
 
-<p align="center"><img width="60%" src="http://www.stat.ucla.edu/~jxie/3DEBM/files/3D_syn.png" /></p> 
+<p align="center"><img width="60%" src="http://www.stat.ucla.edu/~jxie/3DEBM/files/3D_syn.png" /></p>
 
 :game_die: <b>PU-Net: Point Cloud Upsampling Network (2018)</b> [[Paper]](https://arxiv.org/pdf/1801.06761.pdf) [[Code]](https://github.com/yulequan/PU-Net)
 
-<p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p> 
+<p align="center"><img width="50%" src="http://appsrv.cse.cuhk.edu.hk/~lqyu/indexpics/Pu-Net.png" /></p>
 
 :camera::space_invader: <b>Multi-view Consistency as Supervisory Signal  for Learning Shape and Pose Prediction (2018 CVPR)</b> [[Paper]](https://shubhtuls.github.io/mvcSnP/)
 <p align="center"><img width="50%" src="https://shubhtuls.github.io/mvcSnP/resources/images/teaser.png" /></p>
@@ -814,7 +814,7 @@ An energy-based 3D shape descriptor network is a deep energy-based model for vol
 :space_invader: <b>Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1804.10975.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Matryoshka%20Networks-%20Predicting%203D%20Geometry%20via%20Nested%20Shape%20Layers%20(2018%20CVPR).jpeg" /></p>
 
-:gem: <b>	
+:gem: <b>
 Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1712.00268v1.pdf)
 <p align="center"><img width="50%" src="https://orlitany.github.io/OL_files/shapeComp.png" /></p>
 
@@ -849,7 +849,7 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 <p align="center"><img width="50%" src="https://raw.githubusercontent.com/nschor/CompoNet/master/images/network_architecture.png" /></p>
 
 <b>CoMA: Convolutional Mesh Autoencoders (2018)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/439/1285.pdf)[[Code (TF)]](https://github.com/anuragranj/coma)[[Code (PyTorch)]](https://github.com/pixelite1201/pytorch_coma/)[[Code (PyTorch)]](https://github.com/sw-gong/coma)
-<br>[CoMA](https://coma.is.tue.mpg.de/) is a versatile model that learns a non-linear representation of a face using spectral convolutions on a mesh surface. CoMA introduces mesh sampling operations that enable a hierarchical mesh representation that captures non-linear variations in shape and expression at multiple scales within the model. 
+<br>[CoMA](https://coma.is.tue.mpg.de/) is a versatile model that learns a non-linear representation of a face using spectral convolutions on a mesh surface. CoMA introduces mesh sampling operations that enable a hierarchical mesh representation that captures non-linear variations in shape and expression at multiple scales within the model.
 <p align="center"> <img width="50%" src="https://coma.is.tue.mpg.de/uploads/ckeditor/pictures/91/content_coma_faces.jpg"></p>
 
 <b>RingNet: 3D Face Reconstruction from Single Images (2019)</b> [[Paper]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/509/paper_camera_ready.pdf)[[Code]](https://github.com/soubhiksanyal/RingNet)
@@ -873,7 +873,7 @@ Deformable Shape Completion with Graph Convolutional Autoencoders (2018 CVPR)</b
 
 
 
-:space_invader: <b>Generative VoxelNet: Learning Energy-Based Models for 3D Shape Synthesis and Analysis (2020 TPAMI)</b>   [[Paper]](http://www.stat.ucla.edu/~jxie/3DEBM/3DEBM_file/doc/gVoxelNet.pdf) 
+:space_invader: <b>Generative VoxelNet: Learning Energy-Based Models for 3D Shape Synthesis and Analysis (2020 TPAMI)</b>   [[Paper]](http://www.stat.ucla.edu/~jxie/3DEBM/3DEBM_file/doc/gVoxelNet.pdf)
 
 This paper proposes a deep 3D energy-based model to represent volumetric shapes. The maximum likelihood training of the model follows an “analysis by synthesis” scheme. Experiments demonstrate that the proposed model can generate high-quality 3D shape patterns and can be useful for a wide variety of 3D shape analysis.
 
@@ -881,7 +881,7 @@ This paper proposes a deep 3D energy-based model to represent volumetric shapes.
 
 :game_die: <b>Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification (2021 CVPR) </b> [[Project]](http://www.stat.ucla.edu/~jxie/GPointNet/) [[Paper]](https://arxiv.org/pdf/2004.01301.pdf) [[Code](https://github.com/fei960922/GPointNet)]
 
-Generative PointNet is an energy-based model of unordered point clouds, where the energy function is parameterized by an input-permutation-invariant bottom-up neural network. The model can be trained by MCMC-based maximum likelihood learning, or a short-run MCMC toward the energy-based model as a flow-like generator for point cloud reconstruction and interpolation. The learned point cloud representation can be useful for point cloud classification. 
+Generative PointNet is an energy-based model of unordered point clouds, where the energy function is parameterized by an input-permutation-invariant bottom-up neural network. The model can be trained by MCMC-based maximum likelihood learning, or a short-run MCMC toward the energy-based model as a flow-like generator for point cloud reconstruction and interpolation. The learned point cloud representation can be useful for point cloud classification.
 
 <p align="center"><img width="60%" src="imgs/gpointnet.png" /></p>
 
@@ -949,7 +949,7 @@ We advocate the use of implicit fields for learning generative models of shapes 
 <b>Learning Material-Aware Local Descriptors for 3D Shapes (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DV_ShapeMatFeat.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20Material-Aware%20Local%20Descriptors%20for%203D%20Shapes%20(2018).jpeg" /></p>
 
-<b>FrankenGAN: Guided Detail Synthesis for Building Mass Models 
+<b>FrankenGAN: Guided Detail Synthesis for Building Mass Models
 using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.cs.ucl.ac.uk/projects/2018/frankengan/)
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/frankengan/paper_docs/teaser.jpg" /></p>
 
@@ -1058,32 +1058,32 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 :camera::game_die: <b>FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](http://art-programmer.github.io/floornet.html)
 <p align="center"><img width="50%" src="http://art-programmer.github.io/floornet/teaser.png" /></p>
 
-:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
+:space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf)
 <p align="center"><img width="50%" src="https://niessnerlab.org/papers/2018/3scancomplete/teaser.jpg" /></p>
 
-<b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf) 
+<b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf)
 <p align="center"><img width="50%" src="http://msavva.github.io/files/deepsynth.png" /></p>
 
 :camera: <b>Fast and Flexible Indoor scene synthesis via Deep Convolutional Generative Models (2018)</b> [[Paper]](https://arxiv.org/pdf/1811.12463.pdf) [[Code]](https://github.com/brownvc/fast-synth)
 <p align="center"><img width="80%" src="imgs/Fast%20and%20Flexible%20Indoor%20scene%20synthesis%20via%20Deep%20Convolutional%20Generative%20Models.jpg" ></p>
 
 <b>Configurable 3D Scene Synthesis and 2D Image Rendering
-with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https://arxiv.org/pdf/1704.00112.pdf) 
+with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https://arxiv.org/pdf/1704.00112.pdf)
 <p align="center"><img width="50%" src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11263-018-1103-5/MediaObjects/11263_2018_1103_Fig5_HTML.jpg" /></p>
 
-<b>Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image (ECCV 2018)</b> [[Paper]](http://siyuanhuang.com/holistic_parsing/main.html) 
+<b>Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image (ECCV 2018)</b> [[Paper]](http://siyuanhuang.com/holistic_parsing/main.html)
 <p align="center"><img width="50%" src="http://web.cs.ucla.edu/~syqi/publications/thumbnails/eccv2018scene.png" /></p>
 
-<b>Language-Driven Synthesis of 3D Scenes from Scene Databases (SIGGRAPH Asia 2018)</b> [[Paper]](http://www.sfu.ca/~agadipat/publications/2018/T2S/project_page.html) 
+<b>Language-Driven Synthesis of 3D Scenes from Scene Databases (SIGGRAPH Asia 2018)</b> [[Paper]](http://www.sfu.ca/~agadipat/publications/2018/T2S/project_page.html)
 <p align="center"><img width="50%" src="http://www.sfu.ca/~agadipat/publications/2018/T2S/teaser.png" /></p>
 
-<b>Deep Generative Modeling for Scene Synthesis via Hybrid Representations (2018)</b> [[Paper]](https://arxiv.org/pdf/1808.02084.pdf) 
+<b>Deep Generative Modeling for Scene Synthesis via Hybrid Representations (2018)</b> [[Paper]](https://arxiv.org/pdf/1808.02084.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Deep%20Generative%20Modeling%20for%20Scene%20Synthesis%20via%20Hybrid%20Representations%20(2018).jpeg" /></p>
 
-<b>GRAINS: Generative Recursive Autoencoders for INdoor Scenes (2018)</b> [[Paper]](https://arxiv.org/pdf/1807.09193.pdf) 
+<b>GRAINS: Generative Recursive Autoencoders for INdoor Scenes (2018)</b> [[Paper]](https://arxiv.org/pdf/1807.09193.pdf)
 <p align="center"><img width="50%" src="https://www.groundai.com/media/arxiv_projects/373503/new_pics/teaserfig.jpg.750x0_q75_crop.jpg" /></p>
 
-<b>SEETHROUGH: Finding Objects in Heavily Occluded Indoor Scene Images (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DVOral_SeeThrough.pdf) 
+<b>SEETHROUGH: Finding Objects in Heavily Occluded Indoor Scene Images (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DVOral_SeeThrough.pdf)
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/seethrough/paper_docs/result_plate.png" /></p>
 
 <b>:space_invader: Scan2CAD: Learning CAD Model Alignment in RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1811.11187.pdf) [[Code]](https://github.com/skanti/Scan2CAD)
